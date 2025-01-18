@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplamalar\bin\Debug\hesaplamalar.exe.config
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplamalar\bin\Debug\hesaplamalar.exe
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplamalar\bin\Debug\hesaplamalar.pdb
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplamalar\obj\Debug\hesaplamalar.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplamalar\obj\Debug\hesaplamalar.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplamalar\obj\Debug\hesaplamalar.exe
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplamalar\obj\Debug\hesaplamalar.pdb
