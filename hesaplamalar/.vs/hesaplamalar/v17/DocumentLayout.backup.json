@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\hesaplamalar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91C8F098-7ECC-44F7-BCD0-F4D86B7902CD}|hesaplama4\\hesaplama4.csproj|c:\\users\\user\\desktop\\fullstack\\hesaplamalar\\hesaplama4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C8F098-7ECC-44F7-BCD0-F4D86B7902CD}|hesaplama4\\hesaplama4.csproj|solutionrelative:hesaplama4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CDD3914-EB01-47DF-B35A-182C694EAB06}|hesaplama7\\hesaplama7.csproj|c:\\users\\user\\desktop\\fullstack\\hesaplamalar\\hesaplama7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDD3914-EB01-47DF-B35A-182C694EAB06}|hesaplama7\\hesaplama7.csproj|solutionrelative:hesaplama7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D745B0BB-292F-4A14-ADD0-C6C87FD1982F}|hesaplama3\\hesaplama3.csproj|c:\\users\\user\\desktop\\fullstack\\hesaplamalar\\hesaplama3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D745B0BB-292F-4A14-ADD0-C6C87FD1982F}|hesaplama3\\hesaplama3.csproj|solutionrelative:hesaplama3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD7756E5-B9F9-4D06-B07E-7A0044DB3727}|hesaplama6\\hesaplama6.csproj|c:\\users\\user\\desktop\\fullstack\\hesaplamalar\\hesaplama6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7756E5-B9F9-4D06-B07E-7A0044DB3727}|hesaplama6\\hesaplama6.csproj|solutionrelative:hesaplama6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\hesaplamalar\\hesaplama4\\Program.cs",
-              "RelativeDocumentMoniker": "hesaplama4\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\hesaplamalar\\hesaplama4\\Program.cs",
-              "RelativeToolTip": "hesaplama4\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T09:13:45.429Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\hesaplamalar\\hesaplama3\\Program.cs",
-              "RelativeDocumentMoniker": "hesaplama3\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\hesaplamalar\\hesaplama3\\Program.cs",
-              "RelativeToolTip": "hesaplama3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\hesaplamalar\\hesaplama6\\Program.cs",
+              "RelativeDocumentMoniker": "hesaplama6\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\hesaplamalar\\hesaplama6\\Program.cs",
+              "RelativeToolTip": "hesaplama6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T08:36:53.414Z",
+              "WhenOpened": "2025-01-18T21:06:45.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\hesaplamalar\\hesaplama7\\Program.cs",
+              "RelativeDocumentMoniker": "hesaplama7\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\hesaplamalar\\hesaplama7\\Program.cs*",
+              "RelativeToolTip": "hesaplama7\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T21:05:41.531Z",
               "EditorCaption": ""
             }
           ]

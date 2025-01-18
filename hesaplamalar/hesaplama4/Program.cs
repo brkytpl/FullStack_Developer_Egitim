@@ -16,28 +16,27 @@ namespace hesaplama4
             git:
             Console.WriteLine("notunuzu giriniz");
             byte not=Convert.ToByte(Console.ReadLine());
-            if (not < 0)
+            if (not < 0 || not > 100)
+
             {
                 Console.WriteLine("hatalı giriş");
                 goto git;
-            }
-            else if (not < 50)
-            {
-                Console.WriteLine("kaldı");
-            }
-            else if (not > 50)
-            {
-                Console.WriteLine("geçti");
             }
             else if (not == 100)
             {
                 Console.WriteLine("onur belgesi");
 
             }
-            else
-                {
-                Console.WriteLine();
-                }
+            else if (not < 50)
+            {
+                Console.WriteLine("kaldı");
+            }
+            else if (not >= 50)
+            {
+                Console.WriteLine("geçti");
+            }
+                       
+            
         }
     }
 }
