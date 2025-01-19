@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplama14_foreach_döngüsü\bin\Debug\hesaplama14_foreach_döngüsü.exe.config
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplama14_foreach_döngüsü\bin\Debug\hesaplama14_foreach_döngüsü.exe
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplama14_foreach_döngüsü\bin\Debug\hesaplama14_foreach_döngüsü.pdb
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplama14_foreach_döngüsü\obj\Debug\hesaplama14_foreach_döngüsü.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplama14_foreach_döngüsü\obj\Debug\hesaplama14_foreach_döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplama14_foreach_döngüsü\obj\Debug\hesaplama14_foreach_döngüsü.exe
+C:\Users\USER\Desktop\FullStack\hesaplamalar\hesaplama14_foreach_döngüsü\obj\Debug\hesaplama14_foreach_döngüsü.pdb
