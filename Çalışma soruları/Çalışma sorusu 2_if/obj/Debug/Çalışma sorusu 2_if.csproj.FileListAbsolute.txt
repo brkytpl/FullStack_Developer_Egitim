@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 2_if\bin\Debug\Çalışma sorusu 2_if.exe.config
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 2_if\bin\Debug\Çalışma sorusu 2_if.exe
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 2_if\bin\Debug\Çalışma sorusu 2_if.pdb
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 2_if\obj\Debug\Çalışma sorusu 2_if.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 2_if\obj\Debug\Çalışma sorusu 2_if.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 2_if\obj\Debug\Çalışma sorusu 2_if.exe
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 2_if\obj\Debug\Çalışma sorusu 2_if.pdb
