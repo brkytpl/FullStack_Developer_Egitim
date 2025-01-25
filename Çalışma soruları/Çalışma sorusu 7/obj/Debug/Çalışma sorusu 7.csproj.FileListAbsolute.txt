@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 7\bin\Debug\Çalışma sorusu 7.exe.config
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 7\bin\Debug\Çalışma sorusu 7.exe
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 7\bin\Debug\Çalışma sorusu 7.pdb
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 7\obj\Debug\Çalışma sorusu 7.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 7\obj\Debug\Çalışma sorusu 7.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 7\obj\Debug\Çalışma sorusu 7.exe
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 7\obj\Debug\Çalışma sorusu 7.pdb
