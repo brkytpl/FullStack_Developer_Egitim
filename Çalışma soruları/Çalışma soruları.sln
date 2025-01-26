@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çalışma sorusu 9", "Çal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çalışma sorusu 10", "Çalışma sorusu 10\Çalışma sorusu 10.csproj", "{01CD1E37-63D9-4494-AB83-7C799339D1E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çalışma Sorusu 11", "Çalışma Sorusu 11\Çalışma Sorusu 11.csproj", "{2C77E1A5-C920-4327-ADE0-2CD707432885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çalışma sorusu 12", "Çalışma sorusu 12\Çalışma sorusu 12.csproj", "{DA442C76-B664-4B43-8D32-721DCE415076}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{01CD1E37-63D9-4494-AB83-7C799339D1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01CD1E37-63D9-4494-AB83-7C799339D1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01CD1E37-63D9-4494-AB83-7C799339D1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C77E1A5-C920-4327-ADE0-2CD707432885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C77E1A5-C920-4327-ADE0-2CD707432885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C77E1A5-C920-4327-ADE0-2CD707432885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C77E1A5-C920-4327-ADE0-2CD707432885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA442C76-B664-4B43-8D32-721DCE415076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA442C76-B664-4B43-8D32-721DCE415076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA442C76-B664-4B43-8D32-721DCE415076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA442C76-B664-4B43-8D32-721DCE415076}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

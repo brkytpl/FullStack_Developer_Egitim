@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma Sorusu 11\bin\Debug\Çalışma Sorusu 11.exe.config
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma Sorusu 11\bin\Debug\Çalışma Sorusu 11.exe
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma Sorusu 11\bin\Debug\Çalışma Sorusu 11.pdb
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma Sorusu 11\obj\Debug\Çalışma Sorusu 11.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma Sorusu 11\obj\Debug\Çalışma Sorusu 11.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma Sorusu 11\obj\Debug\Çalışma Sorusu 11.exe
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma Sorusu 11\obj\Debug\Çalışma Sorusu 11.pdb

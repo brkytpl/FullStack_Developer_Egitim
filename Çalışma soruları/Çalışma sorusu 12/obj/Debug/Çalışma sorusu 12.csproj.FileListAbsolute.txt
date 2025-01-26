@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 12\obj\Debug\Çalışma sorusu 12.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 12\obj\Debug\Çalışma sorusu 12.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 12\bin\Debug\Çalışma sorusu 12.exe.config
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 12\bin\Debug\Çalışma sorusu 12.exe
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 12\bin\Debug\Çalışma sorusu 12.pdb
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 12\obj\Debug\Çalışma sorusu 12.exe
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 12\obj\Debug\Çalışma sorusu 12.pdb
