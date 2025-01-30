@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 14\bin\Debug\Çalışma sorusu 14.exe.config
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 14\bin\Debug\Çalışma sorusu 14.exe
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 14\bin\Debug\Çalışma sorusu 14.pdb
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 14\obj\Debug\Çalışma sorusu 14.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 14\obj\Debug\Çalışma sorusu 14.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 14\obj\Debug\Çalışma sorusu 14.exe
+C:\Users\USER\Desktop\FullStack\Çalışma soruları\Çalışma sorusu 14\obj\Debug\Çalışma sorusu 14.pdb

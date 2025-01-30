@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\\u00C7al\u0131\u015Fma sorular\u0131\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA442C76-B664-4B43-8D32-721DCE415076}|\u00C7al\u0131\u015Fma sorusu 12\\\u00C7al\u0131\u015Fma sorusu 12.csproj|c:\\users\\user\\desktop\\fullstack\\\u00E7al\u0131\u015Fma sorular\u0131\\\u00E7al\u0131\u015Fma sorusu 12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA442C76-B664-4B43-8D32-721DCE415076}|\u00C7al\u0131\u015Fma sorusu 12\\\u00C7al\u0131\u015Fma sorusu 12.csproj|solutionrelative:\u00E7al\u0131\u015Fma sorusu 12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86D0F690-422B-4B51-9064-3F0C5000568F}|\u00C7al\u0131\u015Fma sorusu 15\\\u00C7al\u0131\u015Fma sorusu 15.csproj|c:\\users\\user\\desktop\\fullstack\\\u00E7al\u0131\u015Fma sorular\u0131\\\u00E7al\u0131\u015Fma sorusu 15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D0F690-422B-4B51-9064-3F0C5000568F}|\u00C7al\u0131\u015Fma sorusu 15\\\u00C7al\u0131\u015Fma sorusu 15.csproj|solutionrelative:\u00E7al\u0131\u015Fma sorusu 15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C77E1A5-C920-4327-ADE0-2CD707432885}|\u00C7al\u0131\u015Fma Sorusu 11\\\u00C7al\u0131\u015Fma Sorusu 11.csproj|c:\\users\\user\\desktop\\fullstack\\\u00E7al\u0131\u015Fma sorular\u0131\\\u00E7al\u0131\u015Fma sorusu 11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C77E1A5-C920-4327-ADE0-2CD707432885}|\u00C7al\u0131\u015Fma Sorusu 11\\\u00C7al\u0131\u015Fma Sorusu 11.csproj|solutionrelative:\u00E7al\u0131\u015Fma sorusu 11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D672E87-3EBB-4254-A0D8-00C6FF0C0248}|\u00C7al\u0131\u015Fma sorusu 13\\\u00C7al\u0131\u015Fma sorusu 13.csproj|c:\\users\\user\\desktop\\fullstack\\\u00E7al\u0131\u015Fma sorular\u0131\\\u00E7al\u0131\u015Fma sorusu 13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D672E87-3EBB-4254-A0D8-00C6FF0C0248}|\u00C7al\u0131\u015Fma sorusu 13\\\u00C7al\u0131\u015Fma sorusu 13.csproj|solutionrelative:\u00E7al\u0131\u015Fma sorusu 13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\\u00C7al\u0131\u015Fma sorular\u0131\\\u00C7al\u0131\u015Fma sorusu 12\\Program.cs",
-              "RelativeDocumentMoniker": "\u00C7al\u0131\u015Fma sorusu 12\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\\u00C7al\u0131\u015Fma sorular\u0131\\\u00C7al\u0131\u015Fma sorusu 12\\Program.cs*",
-              "RelativeToolTip": "\u00C7al\u0131\u015Fma sorusu 12\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\\u00C7al\u0131\u015Fma sorular\u0131\\\u00C7al\u0131\u015Fma sorusu 15\\Program.cs",
+              "RelativeDocumentMoniker": "\u00C7al\u0131\u015Fma sorusu 15\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\\u00C7al\u0131\u015Fma sorular\u0131\\\u00C7al\u0131\u015Fma sorusu 15\\Program.cs",
+              "RelativeToolTip": "\u00C7al\u0131\u015Fma sorusu 15\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T13:09:17.03Z",
+              "WhenOpened": "2025-01-30T19:51:06.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\\u00C7al\u0131\u015Fma sorular\u0131\\\u00C7al\u0131\u015Fma Sorusu 11\\Program.cs",
-              "RelativeDocumentMoniker": "\u00C7al\u0131\u015Fma Sorusu 11\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\\u00C7al\u0131\u015Fma sorular\u0131\\\u00C7al\u0131\u015Fma Sorusu 11\\Program.cs",
-              "RelativeToolTip": "\u00C7al\u0131\u015Fma Sorusu 11\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\\u00C7al\u0131\u015Fma sorular\u0131\\\u00C7al\u0131\u015Fma sorusu 13\\Program.cs",
+              "RelativeDocumentMoniker": "\u00C7al\u0131\u015Fma sorusu 13\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\\u00C7al\u0131\u015Fma sorular\u0131\\\u00C7al\u0131\u015Fma sorusu 13\\Program.cs",
+              "RelativeToolTip": "\u00C7al\u0131\u015Fma sorusu 13\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T12:27:44.33Z",
+              "WhenOpened": "2025-01-29T19:59:28.747Z",
               "EditorCaption": ""
             }
           ]
