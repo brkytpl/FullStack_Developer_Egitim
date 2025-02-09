@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{1075C8EF-F8A3-4B1F-9EEE-051E214135CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler2", "Diziler2\Diziler2.csproj", "{BB2CBC22-E838-4EC0-828B-BC7BD58C6D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1075C8EF-F8A3-4B1F-9EEE-051E214135CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1075C8EF-F8A3-4B1F-9EEE-051E214135CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1075C8EF-F8A3-4B1F-9EEE-051E214135CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1075C8EF-F8A3-4B1F-9EEE-051E214135CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2CBC22-E838-4EC0-828B-BC7BD58C6D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2CBC22-E838-4EC0-828B-BC7BD58C6D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2CBC22-E838-4EC0-828B-BC7BD58C6D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2CBC22-E838-4EC0-828B-BC7BD58C6D55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

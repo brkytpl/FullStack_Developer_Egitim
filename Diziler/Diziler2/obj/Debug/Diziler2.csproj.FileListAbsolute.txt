@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\Diziler\Diziler2\bin\Debug\Diziler2.exe.config
+C:\Users\USER\Desktop\FullStack\Diziler\Diziler2\bin\Debug\Diziler2.exe
+C:\Users\USER\Desktop\FullStack\Diziler\Diziler2\bin\Debug\Diziler2.pdb
+C:\Users\USER\Desktop\FullStack\Diziler\Diziler2\obj\Debug\Diziler2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\Diziler\Diziler2\obj\Debug\Diziler2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\Diziler\Diziler2\obj\Debug\Diziler2.exe
+C:\Users\USER\Desktop\FullStack\Diziler\Diziler2\obj\Debug\Diziler2.pdb
