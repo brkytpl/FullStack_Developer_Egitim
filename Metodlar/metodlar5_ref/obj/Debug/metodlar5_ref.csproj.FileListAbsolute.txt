@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\Metodlar\metodlar5_ref\bin\Debug\metodlar5_ref.exe.config
+C:\Users\USER\Desktop\FullStack\Metodlar\metodlar5_ref\bin\Debug\metodlar5_ref.exe
+C:\Users\USER\Desktop\FullStack\Metodlar\metodlar5_ref\bin\Debug\metodlar5_ref.pdb
+C:\Users\USER\Desktop\FullStack\Metodlar\metodlar5_ref\obj\Debug\metodlar5_ref.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\Metodlar\metodlar5_ref\obj\Debug\metodlar5_ref.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\Metodlar\metodlar5_ref\obj\Debug\metodlar5_ref.exe
+C:\Users\USER\Desktop\FullStack\Metodlar\metodlar5_ref\obj\Debug\metodlar5_ref.pdb

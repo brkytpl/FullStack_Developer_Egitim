@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar2\bin\Debug\Metodlar2.exe.config
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar2\bin\Debug\Metodlar2.exe
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar2\bin\Debug\Metodlar2.pdb
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar2\obj\Debug\Metodlar2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar2\obj\Debug\Metodlar2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar2\obj\Debug\Metodlar2.exe
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar2\obj\Debug\Metodlar2.pdb

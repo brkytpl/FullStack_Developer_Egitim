@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\Metodlar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D9DBF9D-DE95-4155-957D-B031BA761199}|Metod_uygulama_1\\Metod_uygulama_1.csproj|c:\\users\\user\\desktop\\fullstack\\metodlar\\metod_uygulama_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D9DBF9D-DE95-4155-957D-B031BA761199}|Metod_uygulama_1\\Metod_uygulama_1.csproj|solutionrelative:metod_uygulama_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87599947-89E1-4AAE-AFB7-8A7A6601E054}|metodlar7\\metodlar7.csproj|c:\\users\\user\\desktop\\fullstack\\metodlar\\metodlar7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87599947-89E1-4AAE-AFB7-8A7A6601E054}|metodlar7\\metodlar7.csproj|solutionrelative:metodlar7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\Metodlar\\Metod_uygulama_1\\Program.cs",
-              "RelativeDocumentMoniker": "Metod_uygulama_1\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\Metodlar\\Metod_uygulama_1\\Program.cs",
-              "RelativeToolTip": "Metod_uygulama_1\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwBoAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\Metodlar\\metodlar7\\Program.cs",
+              "RelativeDocumentMoniker": "metodlar7\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\Metodlar\\metodlar7\\Program.cs",
+              "RelativeToolTip": "metodlar7\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T07:59:23.252Z",
+              "WhenOpened": "2025-03-01T08:49:57.946Z",
               "EditorCaption": ""
             }
           ]

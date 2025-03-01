@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar_çalışma_sorusu\obj\Debug\Metodlar_çalışma_sorusu.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar_çalışma_sorusu\obj\Debug\Metodlar_çalışma_sorusu.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar_çalışma_sorusu\bin\Debug\Metodlar_çalışma_sorusu.exe.config
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar_çalışma_sorusu\bin\Debug\Metodlar_çalışma_sorusu.exe
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar_çalışma_sorusu\bin\Debug\Metodlar_çalışma_sorusu.pdb
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar_çalışma_sorusu\obj\Debug\Metodlar_çalışma_sorusu.exe
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar_çalışma_sorusu\obj\Debug\Metodlar_çalışma_sorusu.pdb

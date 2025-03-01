@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar6_overloading\bin\Debug\Metodlar6_overloading.exe.config
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar6_overloading\bin\Debug\Metodlar6_overloading.exe
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar6_overloading\bin\Debug\Metodlar6_overloading.pdb
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar6_overloading\obj\Debug\Metodlar6_overloading.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar6_overloading\obj\Debug\Metodlar6_overloading.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar6_overloading\obj\Debug\Metodlar6_overloading.exe
+C:\Users\USER\Desktop\FullStack\Metodlar\Metodlar6_overloading\obj\Debug\Metodlar6_overloading.pdb
