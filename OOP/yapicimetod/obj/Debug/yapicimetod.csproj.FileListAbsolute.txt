@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\OOP\yapicimetod\bin\Debug\yapicimetod.exe.config
+C:\Users\USER\Desktop\FullStack\OOP\yapicimetod\bin\Debug\yapicimetod.exe
+C:\Users\USER\Desktop\FullStack\OOP\yapicimetod\bin\Debug\yapicimetod.pdb
+C:\Users\USER\Desktop\FullStack\OOP\yapicimetod\obj\Debug\yapicimetod.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\OOP\yapicimetod\obj\Debug\yapicimetod.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\OOP\yapicimetod\obj\Debug\yapicimetod.exe
+C:\Users\USER\Desktop\FullStack\OOP\yapicimetod\obj\Debug\yapicimetod.pdb

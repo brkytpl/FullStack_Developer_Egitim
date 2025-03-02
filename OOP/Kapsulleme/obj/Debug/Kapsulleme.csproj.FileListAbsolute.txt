@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\OOP\Kapsulleme\bin\Debug\Kapsulleme.exe.config
+C:\Users\USER\Desktop\FullStack\OOP\Kapsulleme\bin\Debug\Kapsulleme.exe
+C:\Users\USER\Desktop\FullStack\OOP\Kapsulleme\bin\Debug\Kapsulleme.pdb
+C:\Users\USER\Desktop\FullStack\OOP\Kapsulleme\obj\Debug\Kapsulleme.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\OOP\Kapsulleme\obj\Debug\Kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\OOP\Kapsulleme\obj\Debug\Kapsulleme.exe
+C:\Users\USER\Desktop\FullStack\OOP\Kapsulleme\obj\Debug\Kapsulleme.pdb
