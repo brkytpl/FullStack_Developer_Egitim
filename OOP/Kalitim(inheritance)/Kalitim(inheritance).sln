@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalitim(inheritance)", "Kalitim(inheritance)\Kalitim(inheritance).csproj", "{62BB2832-6828-4DAF-83A5-8434EE5E330A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtualmetod", "..\Virtualmetod\Virtualmetod.csproj", "{3F4D2EA5-2C53-41C9-844A-37A46A13368A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstraction", "..\abstraction\abstraction.csproj", "{3D28D555-086C-44C9-B629-092F8E5CE21D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hazirmetodlar", "..\Hazirmetodlar\Hazirmetodlar.csproj", "{11F413B1-9199-413A-A7BF-D0F61231F197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BB2832-6828-4DAF-83A5-8434EE5E330A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BB2832-6828-4DAF-83A5-8434EE5E330A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BB2832-6828-4DAF-83A5-8434EE5E330A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BB2832-6828-4DAF-83A5-8434EE5E330A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4D2EA5-2C53-41C9-844A-37A46A13368A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4D2EA5-2C53-41C9-844A-37A46A13368A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4D2EA5-2C53-41C9-844A-37A46A13368A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4D2EA5-2C53-41C9-844A-37A46A13368A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D28D555-086C-44C9-B629-092F8E5CE21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D28D555-086C-44C9-B629-092F8E5CE21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D28D555-086C-44C9-B629-092F8E5CE21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D28D555-086C-44C9-B629-092F8E5CE21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F413B1-9199-413A-A7BF-D0F61231F197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F413B1-9199-413A-A7BF-D0F61231F197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F413B1-9199-413A-A7BF-D0F61231F197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F413B1-9199-413A-A7BF-D0F61231F197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

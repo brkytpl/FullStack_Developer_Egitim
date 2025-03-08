@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\OOP\Hazirmetodlar\bin\Debug\Hazirmetodlar.exe.config
+C:\Users\USER\Desktop\FullStack\OOP\Hazirmetodlar\bin\Debug\Hazirmetodlar.exe
+C:\Users\USER\Desktop\FullStack\OOP\Hazirmetodlar\bin\Debug\Hazirmetodlar.pdb
+C:\Users\USER\Desktop\FullStack\OOP\Hazirmetodlar\obj\Debug\Hazirmetodlar.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\OOP\Hazirmetodlar\obj\Debug\Hazirmetodlar.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\OOP\Hazirmetodlar\obj\Debug\Hazirmetodlar.exe
+C:\Users\USER\Desktop\FullStack\OOP\Hazirmetodlar\obj\Debug\Hazirmetodlar.pdb
