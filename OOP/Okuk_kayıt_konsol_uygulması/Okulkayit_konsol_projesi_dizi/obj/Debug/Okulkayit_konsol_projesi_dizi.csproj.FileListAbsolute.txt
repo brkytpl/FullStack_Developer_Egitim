@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\OOP\Okuk_kayıt_konsol_uygulması\Okulkayit_konsol_projesi_dizi\bin\Debug\Okulkayit_konsol_projesi_dizi.exe.config
+C:\Users\USER\Desktop\FullStack\OOP\Okuk_kayıt_konsol_uygulması\Okulkayit_konsol_projesi_dizi\bin\Debug\Okulkayit_konsol_projesi_dizi.exe
+C:\Users\USER\Desktop\FullStack\OOP\Okuk_kayıt_konsol_uygulması\Okulkayit_konsol_projesi_dizi\bin\Debug\Okulkayit_konsol_projesi_dizi.pdb
+C:\Users\USER\Desktop\FullStack\OOP\Okuk_kayıt_konsol_uygulması\Okulkayit_konsol_projesi_dizi\obj\Debug\Okulkayit_konsol_projesi_dizi.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\OOP\Okuk_kayıt_konsol_uygulması\Okulkayit_konsol_projesi_dizi\obj\Debug\Okulkayit_konsol_projesi_dizi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\OOP\Okuk_kayıt_konsol_uygulması\Okulkayit_konsol_projesi_dizi\obj\Debug\Okulkayit_konsol_projesi_dizi.exe
+C:\Users\USER\Desktop\FullStack\OOP\Okuk_kayıt_konsol_uygulması\Okulkayit_konsol_projesi_dizi\obj\Debug\Okulkayit_konsol_projesi_dizi.pdb
