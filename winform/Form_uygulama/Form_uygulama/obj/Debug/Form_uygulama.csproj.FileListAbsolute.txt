@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\FullStack\winform\Form_uygulama\Form_uygulama\obj\Debug\Form_uygulama.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\winform\Form_uygulama\Form_uygulama\obj\Debug\Form_uygulama.Form1.resources
+C:\Users\USER\Desktop\FullStack\winform\Form_uygulama\Form_uygulama\obj\Debug\Form_uygulama.Properties.Resources.resources
+C:\Users\USER\Desktop\FullStack\winform\Form_uygulama\Form_uygulama\obj\Debug\Form_uygulama.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FullStack\winform\Form_uygulama\Form_uygulama\obj\Debug\Form_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\winform\Form_uygulama\Form_uygulama\bin\Debug\Form_uygulama.exe.config
+C:\Users\USER\Desktop\FullStack\winform\Form_uygulama\Form_uygulama\bin\Debug\Form_uygulama.exe
+C:\Users\USER\Desktop\FullStack\winform\Form_uygulama\Form_uygulama\bin\Debug\Form_uygulama.pdb
+C:\Users\USER\Desktop\FullStack\winform\Form_uygulama\Form_uygulama\obj\Debug\Form_uygulama.exe
+C:\Users\USER\Desktop\FullStack\winform\Form_uygulama\Form_uygulama\obj\Debug\Form_uygulama.pdb
