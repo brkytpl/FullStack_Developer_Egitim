@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\FullStack\winform\formuygulama3\formuygulama3\bin\Debug\formuygulama3.exe.config
+C:\Users\USER\Desktop\FullStack\winform\formuygulama3\formuygulama3\bin\Debug\formuygulama3.exe
+C:\Users\USER\Desktop\FullStack\winform\formuygulama3\formuygulama3\bin\Debug\formuygulama3.pdb
+C:\Users\USER\Desktop\FullStack\winform\formuygulama3\formuygulama3\obj\Debug\formuygulama3.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\winform\formuygulama3\formuygulama3\obj\Debug\formuygulama3.Form1.resources
+C:\Users\USER\Desktop\FullStack\winform\formuygulama3\formuygulama3\obj\Debug\formuygulama3.Properties.Resources.resources
+C:\Users\USER\Desktop\FullStack\winform\formuygulama3\formuygulama3\obj\Debug\formuygulama3.Sipariş.resources
+C:\Users\USER\Desktop\FullStack\winform\formuygulama3\formuygulama3\obj\Debug\formuygulama3.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FullStack\winform\formuygulama3\formuygulama3\obj\Debug\formuygulama3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\winform\formuygulama3\formuygulama3\obj\Debug\formuygulama3.exe
+C:\Users\USER\Desktop\FullStack\winform\formuygulama3\formuygulama3\obj\Debug\formuygulama3.pdb
+C:\Users\USER\Desktop\FullStack\winform\formuygulama3\formuygulama3\obj\Debug\formuygulama3.Fis.resources
