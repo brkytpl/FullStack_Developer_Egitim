@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\FullStack\winform\Hatayakalama\Hatayakalama\bin\Debug\Hatayakalama.exe.config
+C:\Users\USER\Desktop\FullStack\winform\Hatayakalama\Hatayakalama\bin\Debug\Hatayakalama.exe
+C:\Users\USER\Desktop\FullStack\winform\Hatayakalama\Hatayakalama\bin\Debug\Hatayakalama.pdb
+C:\Users\USER\Desktop\FullStack\winform\Hatayakalama\Hatayakalama\obj\Debug\Hatayakalama.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\winform\Hatayakalama\Hatayakalama\obj\Debug\Hatayakalama.Form1.resources
+C:\Users\USER\Desktop\FullStack\winform\Hatayakalama\Hatayakalama\obj\Debug\Hatayakalama.Properties.Resources.resources
+C:\Users\USER\Desktop\FullStack\winform\Hatayakalama\Hatayakalama\obj\Debug\Hatayakalama.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FullStack\winform\Hatayakalama\Hatayakalama\obj\Debug\Hatayakalama.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\winform\Hatayakalama\Hatayakalama\obj\Debug\Hatayakalama.exe
+C:\Users\USER\Desktop\FullStack\winform\Hatayakalama\Hatayakalama\obj\Debug\Hatayakalama.pdb
