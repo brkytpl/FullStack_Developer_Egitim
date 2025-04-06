@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\FullStack\Kutuphane_uygulaması\Kutuphane_uygulaması\Kutuphane_uygulaması\bin\Debug\Kutuphane_uygulaması.exe.config
+C:\Users\USER\Desktop\FullStack\Kutuphane_uygulaması\Kutuphane_uygulaması\Kutuphane_uygulaması\bin\Debug\Kutuphane_uygulaması.exe
+C:\Users\USER\Desktop\FullStack\Kutuphane_uygulaması\Kutuphane_uygulaması\Kutuphane_uygulaması\bin\Debug\Kutuphane_uygulaması.pdb
+C:\Users\USER\Desktop\FullStack\Kutuphane_uygulaması\Kutuphane_uygulaması\Kutuphane_uygulaması\obj\Debug\Kutuphane_uygulaması.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\Kutuphane_uygulaması\Kutuphane_uygulaması\Kutuphane_uygulaması\obj\Debug\Kutuphane_uygulaması.Form1.resources
+C:\Users\USER\Desktop\FullStack\Kutuphane_uygulaması\Kutuphane_uygulaması\Kutuphane_uygulaması\obj\Debug\Kutuphane_uygulaması.Kayit_ekrani.resources
+C:\Users\USER\Desktop\FullStack\Kutuphane_uygulaması\Kutuphane_uygulaması\Kutuphane_uygulaması\obj\Debug\Kutuphane_uygulaması.Properties.Resources.resources
+C:\Users\USER\Desktop\FullStack\Kutuphane_uygulaması\Kutuphane_uygulaması\Kutuphane_uygulaması\obj\Debug\Kutuphane_uygulaması.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FullStack\Kutuphane_uygulaması\Kutuphane_uygulaması\Kutuphane_uygulaması\obj\Debug\Kutuphane_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\Kutuphane_uygulaması\Kutuphane_uygulaması\Kutuphane_uygulaması\obj\Debug\Kutuphane_uygulaması.exe
+C:\Users\USER\Desktop\FullStack\Kutuphane_uygulaması\Kutuphane_uygulaması\Kutuphane_uygulaması\obj\Debug\Kutuphane_uygulaması.pdb
+C:\Users\USER\Desktop\FullStack\Kutuphane_uygulaması\Kutuphane_uygulaması\Kutuphane_uygulaması\obj\Debug\Kutuphane_uygulaması.Kayit_Fisi.resources
