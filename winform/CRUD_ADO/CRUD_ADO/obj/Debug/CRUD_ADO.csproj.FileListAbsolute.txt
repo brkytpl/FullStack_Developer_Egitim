@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\bin\Debug\CRUD_ADO.exe.config
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\bin\Debug\CRUD_ADO.exe
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\bin\Debug\CRUD_ADO.pdb
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\obj\Debug\CRUD_ADO.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\obj\Debug\CRUD_ADO.Form1.resources
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\obj\Debug\CRUD_ADO.Properties.Resources.resources
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\obj\Debug\CRUD_ADO.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\obj\Debug\CRUD_ADO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\obj\Debug\CRUD_ADO.exe
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\obj\Debug\CRUD_ADO.pdb

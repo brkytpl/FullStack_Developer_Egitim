@@ -25,12 +25,16 @@ namespace Kutuphane_uygulaması
             {
                 Kayit_ekrani kayit_Ekrani = new Kayit_ekrani();
                 kayit_Ekrani.Show();
+                this.Hide();
+                
+                
             }
             else 
             {
                 label4.Text="Eksik giriş yaptınız";
             }
         }
+
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {

@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\kayit_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|solutionrelative:kutuphane_uygulamas\u0131\\kayit_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\kayit_fisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|solutionrelative:kutuphane_uygulamas\u0131\\kayit_fisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\kayit_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|solutionrelative:kutuphane_uygulamas\u0131\\kayit_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\kayit_fisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|solutionrelative:kutuphane_uygulamas\u0131\\kayit_fisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|c:\\users\\user\\desktop\\fullstack\\kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|solutionrelative:kutuphane_uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,24 +27,8 @@
       "RelativeMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|solutionrelative:kutuphane_uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\kayit_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|solutionrelative:kutuphane_uygulamas\u0131\\kayit_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|c:\\users\\user\\desktop\\fullstack\\kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\kayit_fisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|solutionrelative:kutuphane_uygulamas\u0131\\kayit_fisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|c:\\users\\user\\desktop\\fullstack\\kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|solutionrelative:kutuphane_uygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|c:\\users\\user\\desktop\\fullstack\\kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\kayit_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|solutionrelative:kutuphane_uygulamas\u0131\\kayit_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|c:\\users\\user\\desktop\\fullstack\\kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\kutuphane_uygulamas\u0131\\kayit_fisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3280976D-9840-4862-8D1D-4F03731FC461}|Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131.csproj|solutionrelative:kutuphane_uygulamas\u0131\\kayit_fisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Program.cs",
               "RelativeDocumentMoniker": "Kutuphane_uygulamas\u0131\\Program.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Kayit_Fisi.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Kayit_Fisi.cs",
               "RelativeDocumentMoniker": "Kutuphane_uygulamas\u0131\\Kayit_Fisi.cs",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Kayit_Fisi.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Kayit_Fisi.cs",
               "RelativeDocumentMoniker": "Kutuphane_uygulamas\u0131\\Kayit_Fisi.cs",
@@ -84,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Kayit_ekrani.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Kayit_ekrani.cs",
               "RelativeDocumentMoniker": "Kutuphane_uygulamas\u0131\\Kayit_ekrani.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Kayit_ekrani.cs",
               "RelativeToolTip": "Kutuphane_uygulamas\u0131\\Kayit_ekrani.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAlwCUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T14:35:43.602Z",
               "EditorCaption": ""
@@ -109,20 +109,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Form1.cs",
               "RelativeDocumentMoniker": "Kutuphane_uygulamas\u0131\\Form1.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Form1.cs",
               "RelativeToolTip": "Kutuphane_uygulamas\u0131\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T13:44:56.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Kutuphane_uygulamas\u0131\\Form1.cs",
               "RelativeDocumentMoniker": "Kutuphane_uygulamas\u0131\\Form1.cs",

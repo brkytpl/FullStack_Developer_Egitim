@@ -28,7 +28,7 @@ namespace Kutuphane_uygulaması
             listBox1.Items.Add("Kitabın Yazarı: " + textBox2.Text);
             listBox1.Items.Add("Basım Yılı: "+textBox3.Text);
             listBox1.Items.Add("Bulunduğu Kat: " + comboBox1.Text);
-            listBox1.Items.Add("Bulunduğu Rad: " + textBox5.Text);
+            listBox1.Items.Add("Bulunduğu Raf: " + textBox5.Text);
 
             textBox1.Clear();
             textBox2.Clear();
@@ -55,6 +55,8 @@ namespace Kutuphane_uygulaması
                 kayit_Fisi.listBox1.Items.Add(item);
             }
             kayit_Fisi.Show();
+            
+            
         }
     }
 }
