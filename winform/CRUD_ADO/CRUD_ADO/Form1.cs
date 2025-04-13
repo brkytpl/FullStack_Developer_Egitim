@@ -90,7 +90,7 @@ namespace CRUD_ADO
         private void button2_Click(object sender, EventArgs e)
         {
             baglanti.Open();
-            SqlCommand command = new SqlCommand("update Kitaplar set kitapad=@kitapad,yazarad=@yazarad,basimtarihi=@basimtarihi,sayfasayisi=@sayfasayisi,baskisayisi=@baskisayisi where id=@id ",baglanti);
+            SqlCommand command = new SqlCommand("update Kitaplar set kitapad=@kitapad,yazarad=@yazarad,basimtarihi=@basimtarihi,sayfasayisi=@sayfasayisi,baskisayisi=@baskisayisi where id=@id ", baglanti);
             command.Parameters.AddWithValue("@id", Convert.ToInt32(textBox1.Tag));
             command.Parameters.AddWithValue("@kitapad", textBox1.Text);
             command.Parameters.AddWithValue("@yazarad", textBox2.Text);
@@ -104,6 +104,36 @@ namespace CRUD_ADO
             listeleme();
             temizleme();
         }
-
+        
+        private void button5_Click_1(object sender, EventArgs e)
+        {
+            
+            if (comboBox1.SelectedItem == "Kitap Adı")
+            {
+                SqlDataAdapter adapter = new SqlDataAdapter("select * from Kitaplar where kitapad like '%" + textBox4.Text + "%'", baglanti);
+                DataTable dataTable = new DataTable();
+                adapter.Fill(dataTable);
+                dataGridView1.DataSource = dataTable;
+            }
+            else if (comboBox1.SelectedItem == "Yazar Adı")
+            {
+                SqlDataAdapter adapter = new SqlDataAdapter("select * from Kitaplar where yazarad like '%" + textBox4.Text + "%'", baglanti);
+                DataTable dataTable = new DataTable();
+                adapter.Fill(dataTable);
+                dataGridView1.DataSource = dataTable;
+            }
+            else if (comboBox1.SelectedItem == "Sayfa Sayısı")
+            {
+                SqlDataAdapter adapter = new SqlDataAdapter("select * from Kitaplar where sayfasayisi="+Convert.ToInt32(textBox4.Text)+"", baglanti);
+                DataTable dataTable = new DataTable();
+                adapter.Fill(dataTable);
+                dataGridView1.DataSource = dataTable;
+            }
+            else
+            {
+                MessageBox.Show("önce listeden kriter seçimi yapınız");
+            }
+            
+        }
     }
 }

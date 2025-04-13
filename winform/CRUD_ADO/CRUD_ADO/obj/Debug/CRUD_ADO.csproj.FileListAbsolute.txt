@@ -8,3 +8,4 @@ C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\obj\Debug\CRUD_ADO.csp
 C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\obj\Debug\CRUD_ADO.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\obj\Debug\CRUD_ADO.exe
 C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\obj\Debug\CRUD_ADO.pdb
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO\CRUD_ADO\obj\Debug\CRUD_ADO.Login.resources
