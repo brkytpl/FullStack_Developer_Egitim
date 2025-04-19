@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\bin\Debug\CRUD_ADO_PROC.exe.config
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\bin\Debug\CRUD_ADO_PROC.exe
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\bin\Debug\CRUD_ADO_PROC.pdb
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CRUD_ADO_PROC.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CRUD_ADO_PROC.Form1.resources
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CRUD_ADO_PROC.Properties.Resources.resources
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CRUD_ADO_PROC.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CRUD_ADO_PROC.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CRUD_ADO_PROC.exe
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CRUD_ADO_PROC.pdb
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CRUD_ADO_PROC.Guncelle.resources
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CRUD_ADO_PROC.Satislar.resources
