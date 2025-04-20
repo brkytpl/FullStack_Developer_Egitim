@@ -28,6 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
@@ -41,11 +43,12 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.label6 = new System.Windows.Forms.Label();
+            this.textBox6 = new System.Windows.Forms.TextBox();
             this.Column1 = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewButtonColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewButtonColumn();
-            this.label6 = new System.Windows.Forms.Label();
-            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.button3 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -76,6 +79,7 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(147, 20);
             this.textBox4.TabIndex = 0;
+            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // textBox5
             // 
@@ -137,6 +141,7 @@
             this.button1.TabIndex = 2;
             this.button1.Text = "Kaydet";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -146,6 +151,7 @@
             this.button2.TabIndex = 2;
             this.button2.Text = "Listeleme";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // dataGridView1
             // 
@@ -154,26 +160,11 @@
             this.Column1,
             this.Column2,
             this.Column3});
-            this.dataGridView1.Location = new System.Drawing.Point(360, 43);
+            this.dataGridView1.Location = new System.Drawing.Point(320, 43);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(541, 219);
+            this.dataGridView1.Size = new System.Drawing.Size(965, 219);
             this.dataGridView1.TabIndex = 3;
-            // 
-            // Column1
-            // 
-            this.Column1.HeaderText = "Seç";
-            this.Column1.Name = "Column1";
-            this.Column1.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            // 
-            // Column2
-            // 
-            this.Column2.HeaderText = "Güncelle";
-            this.Column2.Name = "Column2";
-            // 
-            // Column3
-            // 
-            this.Column3.HeaderText = "Sil";
-            this.Column3.Name = "Column3";
+            this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
             // label6
             // 
@@ -191,11 +182,51 @@
             this.textBox6.Size = new System.Drawing.Size(147, 20);
             this.textBox6.TabIndex = 4;
             // 
+            // Column1
+            // 
+            this.Column1.HeaderText = "Seç";
+            this.Column1.Name = "Column1";
+            this.Column1.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            // 
+            // Column2
+            // 
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.Transparent;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.Color.Black;
+            this.Column2.DefaultCellStyle = dataGridViewCellStyle5;
+            this.Column2.HeaderText = "Güncelle";
+            this.Column2.Name = "Column2";
+            this.Column2.Text = "Güncelle";
+            this.Column2.UseColumnTextForButtonValue = true;
+            // 
+            // Column3
+            // 
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.Black;
+            this.Column3.DefaultCellStyle = dataGridViewCellStyle6;
+            this.Column3.HeaderText = "Sil";
+            this.Column3.Name = "Column3";
+            this.Column3.Text = "Sil";
+            this.Column3.UseColumnTextForButtonValue = true;
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(361, 14);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(101, 23);
+            this.button3.TabIndex = 6;
+            this.button3.Text = "Çoklu Sil";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
             // Satislar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(928, 450);
+            this.ClientSize = new System.Drawing.Size(1297, 367);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.textBox6);
             this.Controls.Add(this.dataGridView1);
@@ -234,10 +265,11 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.DataGridViewCheckBoxColumn Column1;
         private System.Windows.Forms.DataGridViewButtonColumn Column2;
         private System.Windows.Forms.DataGridViewButtonColumn Column3;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.Button button3;
     }
 }

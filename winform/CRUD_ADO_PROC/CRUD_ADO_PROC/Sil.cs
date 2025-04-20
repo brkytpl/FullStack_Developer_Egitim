@@ -11,31 +11,29 @@ using System.Windows.Forms;
 
 namespace CRUD_ADO_PROC
 {
-    public partial class Guncelle: Form
+    public partial class Sil: Form
     {
-        public Guncelle()
+        public Sil()
         {
             InitializeComponent();
         }
         SqlConnection connection = new SqlConnection("Server=BERKAY\\SQLEXPRESS;Database=magaza;integrated security=true");
-        //Güncelle butonu
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+        //Evet butonu
         private void button1_Click(object sender, EventArgs e)
         {
             connection.Open();
 
-            SqlCommand cmd = new SqlCommand("sGuncelle", connection);
+            SqlCommand cmd= new SqlCommand("sSil",connection);
             cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.AddWithValue("id", textBox1.Tag);
-            cmd.Parameters.AddWithValue("musteri", textBox1.Text);
-            cmd.Parameters.AddWithValue("urun", textBox2.Text);
-            cmd.Parameters.AddWithValue("fiyat",Convert.ToDecimal(textBox3.Text));
-            cmd.Parameters.AddWithValue("adet", Convert.ToInt32(textBox4.Text));
-            cmd.Parameters.AddWithValue("odeme", textBox5.Text);
+            cmd.Parameters.AddWithValue("id", label2.Text);
             cmd.ExecuteNonQuery();
+            this.Close();
 
             connection.Close();
-
-            this.Close();
         }
     }
 }

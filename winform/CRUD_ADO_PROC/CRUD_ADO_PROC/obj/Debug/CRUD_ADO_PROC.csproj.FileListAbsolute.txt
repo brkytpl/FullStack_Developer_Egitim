@@ -10,3 +10,4 @@ C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CR
 C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CRUD_ADO_PROC.pdb
 C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CRUD_ADO_PROC.Guncelle.resources
 C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CRUD_ADO_PROC.Satislar.resources
+C:\Users\USER\Desktop\FullStack\winform\CRUD_ADO_PROC\CRUD_ADO_PROC\obj\Debug\CRUD_ADO_PROC.Sil.resources

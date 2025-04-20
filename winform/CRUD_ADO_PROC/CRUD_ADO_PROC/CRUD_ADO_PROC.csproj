@@ -66,6 +66,12 @@
     <Compile Include="Satislar.Designer.cs">
       <DependentUpon>Satislar.cs</DependentUpon>
     </Compile>
+    <Compile Include="Sil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sil.Designer.cs">
+      <DependentUpon>Sil.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -83,6 +89,9 @@
     </Compile>
     <EmbeddedResource Include="Satislar.resx">
       <DependentUpon>Satislar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sil.resx">
+      <DependentUpon>Sil.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
