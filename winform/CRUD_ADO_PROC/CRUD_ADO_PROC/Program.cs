@@ -16,7 +16,7 @@ namespace CRUD_ADO_PROC
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Satislar());
+            Application.Run(new Resim());
         }
     }
 }
