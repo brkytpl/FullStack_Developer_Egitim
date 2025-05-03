@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\FullStack\winform\AdoNet_rapor\AdoNet_rapor\bin\Debug\AdoNet_rapor.exe.config
+C:\Users\USER\Desktop\FullStack\winform\AdoNet_rapor\AdoNet_rapor\bin\Debug\AdoNet_rapor.exe
+C:\Users\USER\Desktop\FullStack\winform\AdoNet_rapor\AdoNet_rapor\bin\Debug\AdoNet_rapor.pdb
+C:\Users\USER\Desktop\FullStack\winform\AdoNet_rapor\AdoNet_rapor\obj\Debug\AdoNet_rapor.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\winform\AdoNet_rapor\AdoNet_rapor\obj\Debug\AdoNet_rapor.Form1.resources
+C:\Users\USER\Desktop\FullStack\winform\AdoNet_rapor\AdoNet_rapor\obj\Debug\AdoNet_rapor.Properties.Resources.resources
+C:\Users\USER\Desktop\FullStack\winform\AdoNet_rapor\AdoNet_rapor\obj\Debug\AdoNet_rapor.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FullStack\winform\AdoNet_rapor\AdoNet_rapor\obj\Debug\AdoNet_rapor.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\winform\AdoNet_rapor\AdoNet_rapor\obj\Debug\AdoNet_rapor.exe
+C:\Users\USER\Desktop\FullStack\winform\AdoNet_rapor\AdoNet_rapor\obj\Debug\AdoNet_rapor.pdb
+C:\Users\USER\Desktop\FullStack\winform\AdoNet_rapor\AdoNet_rapor\obj\Debug\AdoNet_rapor.Grafik.resources
