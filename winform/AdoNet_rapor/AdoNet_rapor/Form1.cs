@@ -71,7 +71,7 @@ namespace AdoNet_rapor
             //dataGridView1.DataSource = dt;
             SqlCommand cmd = new SqlCommand("select * from Personeller p inner join Satislar s on p.PersonelID=s.PersonelID where Adi Like '%'+@personelad+'%' and SevkUlkesi=@ulke",con);
             cmd.Parameters.AddWithValue("@personelad",textBox1.Text);
-            cmd.Parameters.AddWithValue("@ulke", textBox1.Text);
+            cmd.Parameters.AddWithValue("@ulke", textBox2.Text);
 
 
             SqlDataAdapter adapter = new SqlDataAdapter(cmd);

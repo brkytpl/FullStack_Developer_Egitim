@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBFirst_Prosedursuz", "DBFirst_Prosedursuz\DBFirst_Prosedursuz.csproj", "{092895B4-8FFF-4791-A091-0415CDB7B52B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{092895B4-8FFF-4791-A091-0415CDB7B52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092895B4-8FFF-4791-A091-0415CDB7B52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092895B4-8FFF-4791-A091-0415CDB7B52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092895B4-8FFF-4791-A091-0415CDB7B52B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853829BC-14AB-4E0E-8A4B-69F954C68185}
+	EndGlobalSection
+EndGlobal

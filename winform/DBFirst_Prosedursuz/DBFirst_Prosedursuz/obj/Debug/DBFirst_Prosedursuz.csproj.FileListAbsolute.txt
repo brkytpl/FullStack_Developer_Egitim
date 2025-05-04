@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\FullStack\winform\DBFirst_Prosedursuz\DBFirst_Prosedursuz\obj\Debug\DBFirst_Prosedursuz.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\winform\DBFirst_Prosedursuz\DBFirst_Prosedursuz\obj\Debug\DBFirst_Prosedursuz.Form1.resources
+C:\Users\USER\Desktop\FullStack\winform\DBFirst_Prosedursuz\DBFirst_Prosedursuz\obj\Debug\DBFirst_Prosedursuz.Properties.Resources.resources
+C:\Users\USER\Desktop\FullStack\winform\DBFirst_Prosedursuz\DBFirst_Prosedursuz\obj\Debug\DBFirst_Prosedursuz.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FullStack\winform\DBFirst_Prosedursuz\DBFirst_Prosedursuz\obj\Debug\DBFirst_Prosedursuz.csproj.CoreCompileInputs.cache
