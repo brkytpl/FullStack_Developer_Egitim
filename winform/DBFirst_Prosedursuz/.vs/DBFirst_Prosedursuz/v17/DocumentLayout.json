@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\DBFirst_Prosedursuz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{092895B4-8FFF-4791-A091-0415CDB7B52B}|DBFirst_Prosedursuz\\DBFirst_Prosedursuz.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\DBFirst_Prosedursuz\\dbfirst_prosedursuz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{092895B4-8FFF-4791-A091-0415CDB7B52B}|DBFirst_Prosedursuz\\DBFirst_Prosedursuz.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\dbfirst_prosedursuz\\dbfirst_prosedursuz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{092895B4-8FFF-4791-A091-0415CDB7B52B}|DBFirst_Prosedursuz\\DBFirst_Prosedursuz.csproj|solutionrelative:dbfirst_prosedursuz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{092895B4-8FFF-4791-A091-0415CDB7B52B}|DBFirst_Prosedursuz\\DBFirst_Prosedursuz.csproj|solutionrelative:dbfirst_prosedursuz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{092895B4-8FFF-4791-A091-0415CDB7B52B}|DBFirst_Prosedursuz\\DBFirst_Prosedursuz.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\dbfirst_prosedursuz\\dbfirst_prosedursuz\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{092895B4-8FFF-4791-A091-0415CDB7B52B}|DBFirst_Prosedursuz\\DBFirst_Prosedursuz.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\DBFirst_Prosedursuz\\dbfirst_prosedursuz\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{092895B4-8FFF-4791-A091-0415CDB7B52B}|DBFirst_Prosedursuz\\DBFirst_Prosedursuz.csproj|solutionrelative:dbfirst_prosedursuz\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -37,8 +37,7 @@
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\DBFirst_Prosedursuz\\DBFirst_Prosedursuz\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "DBFirst_Prosedursuz\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-05-04T08:12:28.095Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-05-04T08:12:28.095Z"
             },
             {
               "$type": "Document",
@@ -48,7 +47,7 @@
               "RelativeDocumentMoniker": "DBFirst_Prosedursuz\\Form1.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\DBFirst_Prosedursuz\\DBFirst_Prosedursuz\\Form1.cs",
               "RelativeToolTip": "DBFirst_Prosedursuz\\Form1.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAtwE8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T08:01:21.485Z",
               "EditorCaption": ""
@@ -62,8 +61,7 @@
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\DBFirst_Prosedursuz\\DBFirst_Prosedursuz\\Form1.cs [Tasar\u0131m]",
               "RelativeToolTip": "DBFirst_Prosedursuz\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T06:39:18.342Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-05-04T06:39:18.342Z"
             }
           ]
         }

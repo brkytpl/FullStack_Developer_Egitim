@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="db_first_prosedurModel2StoreContainer" CdmEntityContainer="db_first_prosedurEntities2">
+    <EntitySetMapping Name="Araclars">
+      <EntityTypeMapping TypeName="db_first_prosedurModel2.Araclar">
+        <MappingFragment StoreEntitySet="Araclar">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Marka" ColumnName="Marka" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Renk" ColumnName="Renk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="Guncelleme" FunctionName="db_first_prosedurModel2.Store.Guncelleme" />
+    <FunctionImportMapping FunctionImportName="Kaydetme" FunctionName="db_first_prosedurModel2.Store.Kaydetme" />
+    <FunctionImportMapping FunctionImportName="Listeleme" FunctionName="db_first_prosedurModel2.Store.Listeleme">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="db_first_prosedurModel2.Listeleme_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Marka" ColumnName="Marka" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Renk" ColumnName="Renk" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Silme" FunctionName="db_first_prosedurModel2.Store.Silme" />
+  </EntityContainerMapping>
+</Mapping>

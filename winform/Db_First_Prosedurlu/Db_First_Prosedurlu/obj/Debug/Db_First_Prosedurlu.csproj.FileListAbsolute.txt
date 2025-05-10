@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\obj\Debug\Db_First_Prosedurlu.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\obj\Debug\Db_First_Prosedurlu.Form1.resources
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\obj\Debug\Db_First_Prosedurlu.Properties.Resources.resources
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\obj\Debug\Db_First_Prosedurlu.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\obj\Debug\Db_First_Prosedurlu.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\bin\Debug\Db_First_Prosedurlu.exe.config
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\bin\Debug\Db_First_Prosedurlu.exe
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\bin\Debug\Db_First_Prosedurlu.pdb
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\obj\Debug\Db_First.9128AA58.Up2Date
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\obj\Debug\Db_First_Prosedurlu.exe
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\obj\Debug\Db_First_Prosedurlu.pdb

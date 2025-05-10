@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\bin\Debug\model_first.exe.config
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\bin\Debug\model_first.exe
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\bin\Debug\model_first.pdb
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\obj\Debug\model_first.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\obj\Debug\model_first.Form1.resources
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\obj\Debug\model_first.Properties.Resources.resources
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\obj\Debug\model_first.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\obj\Debug\model_first.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\obj\Debug\model_fi.C8B575A6.Up2Date
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\obj\Debug\model_first.exe
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\obj\Debug\model_first.pdb
