@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAqwLQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:33:44.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:24:05.185Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

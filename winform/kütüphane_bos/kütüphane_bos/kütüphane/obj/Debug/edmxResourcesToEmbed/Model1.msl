@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Model1StoreContainer" CdmEntityContainer="Model1Container2">
+    <EntitySetMapping Name="KitaplarSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Kitaplar)">
+        <MappingFragment StoreEntitySet="KitaplarSet">
+          <ScalarProperty Name="KitapNo" ColumnName="KitapNo" />
+          <ScalarProperty Name="KitapAdi" ColumnName="KitapAdi" />
+          <ScalarProperty Name="Yazar" ColumnName="Yazar" />
+          <ScalarProperty Name="BasimYili" ColumnName="BasimYili" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UyelerSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Uyeler)">
+        <MappingFragment StoreEntitySet="UyelerSet">
+          <ScalarProperty Name="Tc" ColumnName="Tc" />
+          <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />
+          <ScalarProperty Name="Dtarihi" ColumnName="Dtarihi" />
+          <ScalarProperty Name="Adres" ColumnName="Adres" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IslemlerSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Islemler)">
+        <MappingFragment StoreEntitySet="IslemlerSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="AlısTarihi" ColumnName="AlısTarihi" />
+          <ScalarProperty Name="VerişTarihi" ColumnName="VerişTarihi" />
+          <ScalarProperty Name="UyelerTc" ColumnName="UyelerTc" />
+          <ScalarProperty Name="KitaplarKitapNo" ColumnName="KitaplarKitapNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

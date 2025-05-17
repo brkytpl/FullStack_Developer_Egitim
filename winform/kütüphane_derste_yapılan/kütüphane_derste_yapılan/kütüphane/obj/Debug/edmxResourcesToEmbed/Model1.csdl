@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="KitaplarSet" EntityType="Model1.Kitaplar" />
+    <EntitySet Name="UyelerSet" EntityType="Model1.Uyeler" />
+    <EntitySet Name="IslemlerSet" EntityType="Model1.Islemler" />
+    <AssociationSet Name="UyelerIslemler" Association="Model1.UyelerIslemler">
+      <End Role="Uyeler" EntitySet="UyelerSet" />
+      <End Role="Islemler" EntitySet="IslemlerSet" />
+    </AssociationSet>
+    <AssociationSet Name="KitaplarIslemler" Association="Model1.KitaplarIslemler">
+      <End Role="Kitaplar" EntitySet="KitaplarSet" />
+      <End Role="Islemler" EntitySet="IslemlerSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Kitaplar">
+    <Key>
+      <PropertyRef Name="KitapNo" />
+    </Key>
+    <Property Name="KitapNo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="None" />
+    <Property Name="KitapAdi" Type="String" Nullable="false" />
+    <Property Name="Yazar" Type="String" Nullable="false" />
+    <Property Name="BasimYili" Type="Int16" Nullable="false" />
+    <NavigationProperty Name="Islemler" Relationship="Model1.KitaplarIslemler" FromRole="Kitaplar" ToRole="Islemler" />
+  </EntityType>
+  <EntityType Name="Uyeler">
+    <Key>
+      <PropertyRef Name="Tc" />
+    </Key>
+    <Property Name="Tc" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="None" />
+    <Property Name="AdSoyad" Type="String" Nullable="false" />
+    <Property Name="DTarihi" Type="DateTime" Nullable="false" />
+    <Property Name="Telefon" Type="String" Nullable="false" />
+    <NavigationProperty Name="Islemler" Relationship="Model1.UyelerIslemler" FromRole="Uyeler" ToRole="Islemler" />
+  </EntityType>
+  <EntityType Name="Islemler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AlimTarihi" Type="DateTime" Nullable="false" />
+    <Property Name="TeslimTarihi" Type="DateTime" Nullable="false" />
+    <Property Name="Teslimat" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Uyeler" Relationship="Model1.UyelerIslemler" FromRole="Islemler" ToRole="Uyeler" />
+    <Property Name="UyelerTc" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Kitaplar" Relationship="Model1.KitaplarIslemler" FromRole="Islemler" ToRole="Kitaplar" />
+    <Property Name="KitaplarKitapNo" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="UyelerIslemler">
+    <End Type="Model1.Uyeler" Role="Uyeler" Multiplicity="1" />
+    <End Type="Model1.Islemler" Role="Islemler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Uyeler">
+        <PropertyRef Name="Tc" />
+      </Principal>
+      <Dependent Role="Islemler">
+        <PropertyRef Name="UyelerTc" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="KitaplarIslemler">
+    <End Type="Model1.Kitaplar" Role="Kitaplar" Multiplicity="1" />
+    <End Type="Model1.Islemler" Role="Islemler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kitaplar">
+        <PropertyRef Name="KitapNo" />
+      </Principal>
+      <Dependent Role="Islemler">
+        <PropertyRef Name="KitaplarKitapNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

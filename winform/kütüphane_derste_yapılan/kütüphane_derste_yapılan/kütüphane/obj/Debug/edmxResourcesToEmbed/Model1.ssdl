@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Model1StoreContainer">
+    <EntitySet Name="KitaplarSet" EntityType="Model1.Store.KitaplarSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UyelerSet" EntityType="Model1.Store.UyelerSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="IslemlerSet" EntityType="Model1.Store.IslemlerSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="UyelerIslemler" Association="Model1.Store.UyelerIslemler">
+      <End Role="Uyeler" EntitySet="UyelerSet" />
+      <End Role="Islemler" EntitySet="IslemlerSet" />
+    </AssociationSet>
+    <AssociationSet Name="KitaplarIslemler" Association="Model1.Store.KitaplarIslemler">
+      <End Role="Kitaplar" EntitySet="KitaplarSet" />
+      <End Role="Islemler" EntitySet="IslemlerSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="KitaplarSet">
+    <Key>
+      <PropertyRef Name="KitapNo" />
+    </Key>
+    <Property Name="KitapNo" Type="int" Nullable="false" />
+    <Property Name="KitapAdi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Yazar" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="BasimYili" Type="smallint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UyelerSet">
+    <Key>
+      <PropertyRef Name="Tc" />
+    </Key>
+    <Property Name="Tc" Type="bigint" Nullable="false" />
+    <Property Name="AdSoyad" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="DTarihi" Type="datetime" Nullable="false" />
+    <Property Name="Telefon" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IslemlerSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AlimTarihi" Type="datetime" Nullable="false" />
+    <Property Name="TeslimTarihi" Type="datetime" Nullable="false" />
+    <Property Name="Teslimat" Type="bit" Nullable="false" />
+    <Property Name="UyelerTc" Type="bigint" Nullable="false" />
+    <Property Name="KitaplarKitapNo" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="UyelerIslemler">
+    <End Role="Uyeler" Type="Model1.Store.UyelerSet" Multiplicity="1" />
+    <End Role="Islemler" Type="Model1.Store.IslemlerSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Uyeler">
+        <PropertyRef Name="Tc" />
+      </Principal>
+      <Dependent Role="Islemler">
+        <PropertyRef Name="UyelerTc" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="KitaplarIslemler">
+    <End Role="Kitaplar" Type="Model1.Store.KitaplarSet" Multiplicity="1" />
+    <End Role="Islemler" Type="Model1.Store.IslemlerSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kitaplar">
+        <PropertyRef Name="KitapNo" />
+      </Principal>
+      <Dependent Role="Islemler">
+        <PropertyRef Name="KitaplarKitapNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

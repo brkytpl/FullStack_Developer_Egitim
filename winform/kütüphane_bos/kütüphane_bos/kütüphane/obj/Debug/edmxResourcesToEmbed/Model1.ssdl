@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="IslemlerSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AlısTarihi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="VerişTarihi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="UyelerTc" Type="bigint" Nullable="false" />
+    <Property Name="KitaplarKitapNo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="KitaplarSet">
+    <Key>
+      <PropertyRef Name="KitapNo" />
+    </Key>
+    <Property Name="KitapNo" Type="int" Nullable="false" />
+    <Property Name="KitapAdi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Yazar" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="BasimYili" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UyelerSet">
+    <Key>
+      <PropertyRef Name="Tc" />
+    </Key>
+    <Property Name="Tc" Type="bigint" Nullable="false" />
+    <Property Name="AdSoyad" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Dtarihi" Type="datetime" Nullable="false" />
+    <Property Name="Adres" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Telefon" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_KitaplarIslemler">
+    <End Role="KitaplarSet" Type="Self.KitaplarSet" Multiplicity="1" />
+    <End Role="IslemlerSet" Type="Self.IslemlerSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KitaplarSet">
+        <PropertyRef Name="KitapNo" />
+      </Principal>
+      <Dependent Role="IslemlerSet">
+        <PropertyRef Name="KitaplarKitapNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UyelerIslemler">
+    <End Role="UyelerSet" Type="Self.UyelerSet" Multiplicity="1" />
+    <End Role="IslemlerSet" Type="Self.IslemlerSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UyelerSet">
+        <PropertyRef Name="Tc" />
+      </Principal>
+      <Dependent Role="IslemlerSet">
+        <PropertyRef Name="UyelerTc" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Model1StoreContainer">
+    <EntitySet Name="IslemlerSet" EntityType="Self.IslemlerSet" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KitaplarSet" EntityType="Self.KitaplarSet" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UyelerSet" EntityType="Self.UyelerSet" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_KitaplarIslemler" Association="Self.FK_KitaplarIslemler">
+      <End Role="KitaplarSet" EntitySet="KitaplarSet" />
+      <End Role="IslemlerSet" EntitySet="IslemlerSet" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UyelerIslemler" Association="Self.FK_UyelerIslemler">
+      <End Role="UyelerSet" EntitySet="UyelerSet" />
+      <End Role="IslemlerSet" EntitySet="IslemlerSet" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
