@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|solutionrelative:giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|solutionrelative:giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\raporlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|solutionrelative:raporlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\raporlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{465753A3-3787-4619-AB43-403A51E06287}|k\u00FCt\u00FCphane.csproj|solutionrelative:raporlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAA2wLsAAAAJAAAAAAAAAA==",
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Giris.cs",
+              "RelativeDocumentMoniker": "Giris.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Giris.cs",
+              "RelativeToolTip": "Giris.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBgAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T06:33:44.802Z",
+              "WhenOpened": "2025-05-18T08:23:35.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Title": "Giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Giris.cs",
+              "RelativeDocumentMoniker": "Giris.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Giris.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T04:24:05.185Z",
+              "WhenOpened": "2025-05-18T08:17:38.002Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Raporlama.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Raporlama.cs",
+              "RelativeDocumentMoniker": "Raporlama.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Raporlama.cs",
+              "RelativeToolTip": "Raporlama.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv2EAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:12:29.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:11:50.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Raporlama.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Raporlama.cs",
+              "RelativeDocumentMoniker": "Raporlama.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane_derste_yap\u0131lan\\k\u00FCt\u00FCphane\\Raporlama.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Raporlama.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:08:05.878Z",
               "EditorCaption": " [Tasar\u0131m]"
             }
           ]

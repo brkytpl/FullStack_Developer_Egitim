@@ -104,3 +104,5 @@ C:\Users\USER\Desktop\FullStack\winform\kütüphane_derste_yapılan\kütüphane_
 C:\Users\USER\Desktop\FullStack\winform\kütüphane_derste_yapılan\kütüphane_derste_yapılan\kütüphane\obj\Debug\kütüphane_modelFirst.exe
 C:\Users\USER\Desktop\FullStack\winform\kütüphane_derste_yapılan\kütüphane_derste_yapılan\kütüphane\obj\Debug\kütüphane_modelFirst.pdb
 C:\Users\USER\Desktop\FullStack\winform\kütüphane_derste_yapılan\kütüphane_derste_yapılan\kütüphane\obj\Debug\kütüphane_modelFirst.exe.config
+C:\Users\USER\Desktop\FullStack\winform\kütüphane_derste_yapılan\kütüphane_derste_yapılan\kütüphane\obj\Debug\kütüphane_modelFirst.Raporlama.resources
+C:\Users\USER\Desktop\FullStack\winform\kütüphane_derste_yapılan\kütüphane_derste_yapılan\kütüphane\obj\Debug\kütüphane_modelFirst.Giris.resources

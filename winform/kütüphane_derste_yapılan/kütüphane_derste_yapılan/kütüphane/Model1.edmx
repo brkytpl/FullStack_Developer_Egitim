@@ -206,7 +206,7 @@
     <edmx:Diagrams>
       <Diagram DiagramId="1430d7f608f34bd28e1951bcd8934400" Name="Diagram1">
         <EntityTypeShape EntityType="Model1.Kitaplar" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
-        <EntityTypeShape EntityType="Model1.Uyeler" Width="1.5" PointX="0.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model1.Uyeler" Width="1.5" PointX="6.375" PointY="1.5" IsExpanded="true" />
         <EntityTypeShape EntityType="Model1.Islemler" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
         <AssociationConnector Association="Model1.UyelerIslemler" ManuallyRouted="false" />
         <AssociationConnector Association="Model1.KitaplarIslemler" ManuallyRouted="false" />
