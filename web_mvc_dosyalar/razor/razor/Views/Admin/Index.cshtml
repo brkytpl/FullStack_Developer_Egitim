@@ -1,0 +1,28 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div><h1>Başlık</h1>
+         <p>
+             Razor view Engine: Html döküman içerisine html, css, javascript ile beraber c# dilinde kullanabilmektedir.
+         </p>
+    @{ 
+        int sayi1 = 40;
+        int sayi2 = 50;
+        int toplam = sayi1 + sayi2;
+    }
+    <p>Yapılan işlemde kullanılan 1.sayı: @sayi1 </p>
+    <p>İşlem: @(sayi2 * 3)</p>
+    
+    </div>
+</body>
+</html>

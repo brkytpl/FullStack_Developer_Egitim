@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Hakkimizda</title>
+</head>
+<body>
+    @{ 
+        string[] iller = { "İstanbul", "İzmir", "Ankara", "Samsun" };
+    }
+    <h2>İller</h2>
+    @foreach (string item in iller)
+    {
+        <a href="#">@item</a><br />
+    }
+
+
+    <div> 
+    </div>
+</body>
+</html>
