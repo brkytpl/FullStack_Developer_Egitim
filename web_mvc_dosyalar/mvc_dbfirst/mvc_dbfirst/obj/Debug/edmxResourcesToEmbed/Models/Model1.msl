@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="mvc_dbfirstModelStoreContainer" CdmEntityContainer="mvc_dbfirstEntities">
+    <EntitySetMapping Name="Table_1">
+      <EntityTypeMapping TypeName="mvc_dbfirstModel.Table_1">
+        <MappingFragment StoreEntitySet="Table_1">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="urunad" ColumnName="urunad" />
+          <ScalarProperty Name="fiyat" ColumnName="fiyat" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="renk" ColumnName="renk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

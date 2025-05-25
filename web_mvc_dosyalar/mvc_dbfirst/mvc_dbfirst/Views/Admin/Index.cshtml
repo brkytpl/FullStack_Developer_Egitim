@@ -1,0 +1,48 @@
+﻿@model IEnumerable<mvc_dbfirst.Models.Table_1>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/home_LayoutPage.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Yeni Ekle", "Kaydet")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Ürün Adı
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fiyat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.renk)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.urunad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fiyat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.renk)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.adet)
+        </td>
+        <td>
+            @Html.ActionLink("Güncelle", "Düzenle", new { id = item.id }) |
+            @Html.ActionLink("Silme", "Sil", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

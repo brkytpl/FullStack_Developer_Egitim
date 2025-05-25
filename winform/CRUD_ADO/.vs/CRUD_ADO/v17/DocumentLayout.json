@@ -30,12 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -46,8 +42,7 @@
               "RelativeToolTip": "CRUD_ADO\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T06:50:58.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T06:50:58.97Z"
             },
             {
               "$type": "Document",
@@ -59,8 +54,7 @@
               "RelativeToolTip": "CRUD_ADO\\Login.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAD4vyIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T06:23:54.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T06:23:54.092Z"
             },
             {
               "$type": "Document",
@@ -71,8 +65,7 @@
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO\\CRUD_ADO\\Login.cs [Tasar\u0131m]",
               "RelativeToolTip": "CRUD_ADO\\Login.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T06:12:52.368Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-04-13T06:12:52.368Z"
             },
             {
               "$type": "Document",
@@ -82,7 +75,7 @@
               "RelativeDocumentMoniker": "CRUD_ADO\\Form1.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO\\CRUD_ADO\\Form1.cs",
               "RelativeToolTip": "CRUD_ADO\\Form1.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAD4v34AAACJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAH4AAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T06:36:23.863Z",
               "EditorCaption": ""
@@ -96,8 +89,7 @@
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO\\CRUD_ADO\\Form1.cs [Tasar\u0131m]",
               "RelativeToolTip": "CRUD_ADO\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T06:23:26.713Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-04-12T06:23:26.713Z"
             }
           ]
         }

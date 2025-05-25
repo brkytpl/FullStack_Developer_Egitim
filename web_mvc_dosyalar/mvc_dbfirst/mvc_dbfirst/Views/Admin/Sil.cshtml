@@ -1,0 +1,57 @@
+﻿@model mvc_dbfirst.Models.Table_1
+
+@{
+    ViewBag.Title = "Sil";
+    Layout = "~/Views/Shared/home_LayoutPage.cshtml";
+}
+
+<h2>Sil</h2>
+
+<h3>Silmek istediğine emin misin?</h3>
+<div>
+    <h4>Table_1</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.urunad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.urunad)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fiyat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fiyat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.adet)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.adet)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.renk)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.renk)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <h1>YUKA</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">AnaSayfa</a></li>
+            <li><a href="#">Hakkımızda</a></li>
+            <li><a href="#">Urunler</a></li>
+            <li><a href="#">Admin</a></li>
+
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <img src="~/Content/images/WhatsApp Image 2024-03-24 at 18.58.45 (14).jpeg" alt="Alternate Text" />
+        </section>
+        <section>
+            @RenderBody()
+        </section>
+    </main>
+    <footer></footer>
+    
+</body>
+</html>

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\crud_ado_proc\\crud_ado_proc\\resim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\resim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\resim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\resim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\satislar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\satislar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\satislar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\satislar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\satislar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\satislar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +31,20 @@
       "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\sil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\sil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\sil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\resim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\resim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\crud_ado_proc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\crud_ado_proc\\crud_ado_proc\\resim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5AB5A3-C9EE-45F4-89D2-D1049F9DE421}|CRUD_ADO_PROC\\CRUD_ADO_PROC.csproj|solutionrelative:crud_ado_proc\\resim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,28 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Resim.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Resim.cs",
               "RelativeDocumentMoniker": "CRUD_ADO_PROC\\Resim.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Resim.cs",
               "RelativeToolTip": "CRUD_ADO_PROC\\Resim.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAB4AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T08:00:24.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Program.cs",
               "RelativeDocumentMoniker": "CRUD_ADO_PROC\\Program.cs",
@@ -83,30 +79,33 @@
               "RelativeToolTip": "CRUD_ADO_PROC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T07:48:52.47Z"
+              "WhenOpened": "2025-04-26T07:48:52.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Resim.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Resim.cs",
               "RelativeDocumentMoniker": "CRUD_ADO_PROC\\Resim.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Resim.cs [Tasar\u0131m]",
               "RelativeToolTip": "CRUD_ADO_PROC\\Resim.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T07:43:16.325Z"
+              "WhenOpened": "2025-04-26T07:43:16.325Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Sil.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Sil.cs",
               "RelativeDocumentMoniker": "CRUD_ADO_PROC\\Sil.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Sil.cs",
               "RelativeToolTip": "CRUD_ADO_PROC\\Sil.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T13:21:47.907Z"
+              "WhenOpened": "2025-04-20T13:21:47.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -117,7 +116,8 @@
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Sil.cs [Tasar\u0131m]",
               "RelativeToolTip": "CRUD_ADO_PROC\\Sil.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T13:15:15.341Z"
+              "WhenOpened": "2025-04-20T13:15:15.341Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
@@ -127,66 +127,72 @@
               "RelativeDocumentMoniker": "CRUD_ADO_PROC\\Guncelle.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Guncelle.cs",
               "RelativeToolTip": "CRUD_ADO_PROC\\Guncelle.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAD4vx4AAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T12:56:59.934Z"
+              "WhenOpened": "2025-04-20T12:56:59.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Satislar.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Satislar.cs",
               "RelativeDocumentMoniker": "CRUD_ADO_PROC\\Satislar.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Satislar.cs",
               "RelativeToolTip": "CRUD_ADO_PROC\\Satislar.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAApwBQAAAB7AAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAlwBQAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T11:54:25.55Z"
+              "WhenOpened": "2025-04-20T11:54:25.55Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Guncelle.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Guncelle.cs",
               "RelativeDocumentMoniker": "CRUD_ADO_PROC\\Guncelle.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Guncelle.cs [Tasar\u0131m]",
               "RelativeToolTip": "CRUD_ADO_PROC\\Guncelle.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T08:46:30.566Z"
+              "WhenOpened": "2025-04-19T08:46:30.566Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Satislar.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Satislar.cs",
               "RelativeDocumentMoniker": "CRUD_ADO_PROC\\Satislar.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Satislar.cs [Tasar\u0131m]",
               "RelativeToolTip": "CRUD_ADO_PROC\\Satislar.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T08:29:40.212Z"
+              "WhenOpened": "2025-04-19T08:29:40.212Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Form1.cs",
               "RelativeDocumentMoniker": "CRUD_ADO_PROC\\Form1.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Form1.cs",
               "RelativeToolTip": "CRUD_ADO_PROC\\Form1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAMwB4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwB4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T07:34:26.614Z"
+              "WhenOpened": "2025-04-19T07:34:26.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Form1.cs",
               "RelativeDocumentMoniker": "CRUD_ADO_PROC\\Form1.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\CRUD_ADO_PROC\\CRUD_ADO_PROC\\Form1.cs [Tasar\u0131m]",
               "RelativeToolTip": "CRUD_ADO_PROC\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T07:01:40.023Z"
+              "WhenOpened": "2025-04-19T07:01:40.023Z",
+              "EditorCaption": " [Tasar\u0131m]"
             }
           ]
         }
