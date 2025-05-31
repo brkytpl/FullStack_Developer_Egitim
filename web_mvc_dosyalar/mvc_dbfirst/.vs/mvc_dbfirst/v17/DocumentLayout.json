@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{B4413068-29B8-436A-847E-55E70446CAFB}|mvc_dbfirst\\mvc_dbfirst.csproj|solutionrelative:mvc_dbfirst\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4413068-29B8-436A-847E-55E70446CAFB}|mvc_dbfirst\\mvc_dbfirst.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\mvc_dbfirst\\mvc_dbfirst\\views\\admin\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B4413068-29B8-436A-847E-55E70446CAFB}|mvc_dbfirst\\mvc_dbfirst.csproj|C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_dbfirst\\mvc_dbfirst\\views\\admin\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4413068-29B8-436A-847E-55E70446CAFB}|mvc_dbfirst\\mvc_dbfirst.csproj|solutionrelative:mvc_dbfirst\\views\\admin\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4413068-29B8-436A-847E-55E70446CAFB}|mvc_dbfirst\\mvc_dbfirst.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\mvc_dbfirst\\mvc_dbfirst\\views\\admin\\d\u00FCzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B4413068-29B8-436A-847E-55E70446CAFB}|mvc_dbfirst\\mvc_dbfirst.csproj|C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_dbfirst\\mvc_dbfirst\\views\\admin\\d\u00FCzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4413068-29B8-436A-847E-55E70446CAFB}|mvc_dbfirst\\mvc_dbfirst.csproj|solutionrelative:mvc_dbfirst\\views\\admin\\d\u00FCzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4413068-29B8-436A-847E-55E70446CAFB}|mvc_dbfirst\\mvc_dbfirst.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\mvc_dbfirst\\mvc_dbfirst\\views\\admin\\kaydet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B4413068-29B8-436A-847E-55E70446CAFB}|mvc_dbfirst\\mvc_dbfirst.csproj|C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_dbfirst\\mvc_dbfirst\\views\\admin\\kaydet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4413068-29B8-436A-847E-55E70446CAFB}|mvc_dbfirst\\mvc_dbfirst.csproj|solutionrelative:mvc_dbfirst\\views\\admin\\kaydet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4413068-29B8-436A-847E-55E70446CAFB}|mvc_dbfirst\\mvc_dbfirst.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\mvc_dbfirst\\mvc_dbfirst\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B4413068-29B8-436A-847E-55E70446CAFB}|mvc_dbfirst\\mvc_dbfirst.csproj|C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_dbfirst\\mvc_dbfirst\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4413068-29B8-436A-847E-55E70446CAFB}|mvc_dbfirst\\mvc_dbfirst.csproj|solutionrelative:mvc_dbfirst\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "mvc_dbfirst\\Views\\Admin\\D\u00FCzenle.cshtml",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_dbfirst\\mvc_dbfirst\\Views\\Admin\\D\u00FCzenle.cshtml",
               "RelativeToolTip": "mvc_dbfirst\\Views\\Admin\\D\u00FCzenle.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-25T15:10:09.833Z",
               "EditorCaption": ""
@@ -66,7 +66,7 @@
               "RelativeDocumentMoniker": "mvc_dbfirst\\Views\\Admin\\Kaydet.cshtml",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_dbfirst\\mvc_dbfirst\\Views\\Admin\\Kaydet.cshtml",
               "RelativeToolTip": "mvc_dbfirst\\Views\\Admin\\Kaydet.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-25T14:30:46.979Z",
               "EditorCaption": ""
@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "mvc_dbfirst\\Views\\Admin\\Index.cshtml",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_dbfirst\\mvc_dbfirst\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "mvc_dbfirst\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-25T14:02:56.971Z",
               "EditorCaption": ""
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "mvc_dbfirst\\Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_dbfirst\\mvc_dbfirst\\Controllers\\AdminController.cs",
               "RelativeToolTip": "mvc_dbfirst\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAwwC0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAC0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T13:04:09.407Z",
               "EditorCaption": ""
