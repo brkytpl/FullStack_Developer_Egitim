@@ -22,5 +22,6 @@
     <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="KullaniciAdi" Type="String" Nullable="false" />
     <Property Name="Sifre" Type="String" Nullable="false" />
+    <Property Name="Rol" Type="String" Nullable="false" />
   </EntityType>
 </Schema>

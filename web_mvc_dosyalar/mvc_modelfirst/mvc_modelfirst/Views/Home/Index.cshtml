@@ -1,0 +1,55 @@
+﻿@model  IEnumerable<mvc_modelfirst.Models.Urunler>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-4">
+            <div class="card">
+                <img src="@item.Resim" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">@item.UrunAdi</h5>
+                    <p class="card-text">@item.Aciklama</p>
+                    <span class="d-block bg-warning mt-2 mb-2">@item.Fiyat</span>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
+     }
+
+
+</div>
+<div class="row">
+    <div class="col">
+        <select class="m-4">
+            @foreach (var item in Model)
+            {
+                <option value="@item.Id">@item.UrunAdi</option>
+            }
+
+        </select>
+
+    </div>
+    <div class="col">
+        <select class="m-2">
+            @foreach (var item in ViewBag.kullanici)
+            {
+                <option value="@item.Value">@item.Text</option>
+            }
+        </select>
+
+    </div>
+    <div class="col">
+        @ViewBag.x;
+        @ViewData["y"];
+        @TempData["z"];
+
+
+    </div>
+
+</div>
+

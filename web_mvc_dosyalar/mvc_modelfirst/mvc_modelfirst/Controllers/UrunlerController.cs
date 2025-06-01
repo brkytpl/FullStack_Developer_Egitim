@@ -9,6 +9,7 @@ using System.Web.Mvc;
 
 namespace mvc_modelfirst.Controllers
 {
+    [Authorize]
     public class UrunlerController : Controller
     {
         Model1Container db=new Model1Container();

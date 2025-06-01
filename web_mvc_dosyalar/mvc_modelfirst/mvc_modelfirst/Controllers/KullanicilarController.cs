@@ -7,6 +7,7 @@ using System.Web.Mvc;
 
 namespace mvc_modelfirst.Controllers
 {
+    [Authorize(Roles ="Admin")]
     public class KullanicilarController : Controller
     {
         Model1Container db=new Model1Container();

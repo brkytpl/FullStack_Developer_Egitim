@@ -22,5 +22,6 @@
     <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="KullaniciAdi" Type="nvarchar(max)" Nullable="false" />
     <Property Name="Sifre" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Rol" Type="nvarchar(max)" Nullable="false" />
   </EntityType>
 </Schema>

@@ -19,6 +19,7 @@
           <ScalarProperty Name="Id" ColumnName="Id" />
           <ScalarProperty Name="KullaniciAdi" ColumnName="KullaniciAdi" />
           <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+          <ScalarProperty Name="Rol" ColumnName="Rol" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

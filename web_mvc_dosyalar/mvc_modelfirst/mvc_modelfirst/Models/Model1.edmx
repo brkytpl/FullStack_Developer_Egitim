@@ -27,6 +27,7 @@
     <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="KullaniciAdi" Type="nvarchar(max)" Nullable="false" />
     <Property Name="Sifre" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Rol" Type="nvarchar(max)" Nullable="false" />
   </EntityType>
 </Schema></edmx:StorageModels>
     <!-- CSDL content -->
@@ -54,6 +55,7 @@
           <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="KullaniciAdi" Type="String" Nullable="false" />
           <Property Name="Sifre" Type="String" Nullable="false" />
+          <Property Name="Rol" Type="String" Nullable="false" />
         </EntityType>
       </Schema>
     </edmx:ConceptualModels>
@@ -79,6 +81,7 @@
           <ScalarProperty Name="Id" ColumnName="Id" />
           <ScalarProperty Name="KullaniciAdi" ColumnName="KullaniciAdi" />
           <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+          <ScalarProperty Name="Rol" ColumnName="Rol" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
