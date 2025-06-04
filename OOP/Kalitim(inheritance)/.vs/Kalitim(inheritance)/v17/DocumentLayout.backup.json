@@ -3,7 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Kalitim(inheritance)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11F413B1-9199-413A-A7BF-D0F61231F197}|..\\Hazirmetodlar\\Hazirmetodlar.csproj|c:\\users\\user\\desktop\\fullstack\\oop\\hazirmetodlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62BB2832-6828-4DAF-83A5-8434EE5E330A}|Kalitim(inheritance)\\Kalitim(inheritance).csproj|C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Kalitim(inheritance)\\kalitim(inheritance)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BB2832-6828-4DAF-83A5-8434EE5E330A}|Kalitim(inheritance)\\Kalitim(inheritance).csproj|solutionrelative:kalitim(inheritance)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4D2EA5-2C53-41C9-844A-37A46A13368A}|..\\Virtualmetod\\Virtualmetod.csproj|c:\\users\\user\\desktop\\fullstack\\oop\\virtualmetod\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4D2EA5-2C53-41C9-844A-37A46A13368A}|..\\Virtualmetod\\Virtualmetod.csproj|c:\\users\\user\\desktop\\fullstack\\oop\\virtualmetod\\okul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4D2EA5-2C53-41C9-844A-37A46A13368A}|..\\Virtualmetod\\Virtualmetod.csproj|c:\\users\\user\\desktop\\fullstack\\oop\\virtualmetod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,23 +23,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Hazirmetodlar\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Hazirmetodlar\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Hazirmetodlar\\Program.cs",
-              "RelativeToolTip": "..\\Hazirmetodlar\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCkAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Kalitim(inheritance)\\Kalitim(inheritance)\\Program.cs",
+              "RelativeDocumentMoniker": "Kalitim(inheritance)\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Kalitim(inheritance)\\Kalitim(inheritance)\\Program.cs",
+              "RelativeToolTip": "Kalitim(inheritance)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T08:17:42.54Z",
+              "WhenOpened": "2025-03-08T18:34:03.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Virtualmetod\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "..\\Virtualmetod\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Virtualmetod\\Ogrenci.cs",
+              "RelativeToolTip": "..\\Virtualmetod\\Ogrenci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:33:22.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Okul.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Virtualmetod\\Okul.cs",
+              "RelativeDocumentMoniker": "..\\Virtualmetod\\Okul.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Virtualmetod\\Okul.cs",
+              "RelativeToolTip": "..\\Virtualmetod\\Okul.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:33:21.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Virtualmetod\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Virtualmetod\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Virtualmetod\\Program.cs",
+              "RelativeToolTip": "..\\Virtualmetod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:33:18.041Z",
               "EditorCaption": ""
             }
           ]

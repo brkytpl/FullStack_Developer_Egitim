@@ -17,6 +17,7 @@ namespace abstraction
             //Ana class olmak zorundadır.
             Ogrenci ogrenci = new Ogrenci();
             ogrenci.verial();
+            ogrenci.sil();
 
         }
     }

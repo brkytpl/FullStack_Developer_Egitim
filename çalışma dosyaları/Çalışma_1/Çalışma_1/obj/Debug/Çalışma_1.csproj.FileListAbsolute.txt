@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\Çalışma_1\Çalışma_1\obj\Debug\Çalışma_1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\Çalışma_1\Çalışma_1\obj\Debug\Çalışma_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\Çalışma_1\Çalışma_1\bin\Debug\Çalışma_1.exe.config
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\Çalışma_1\Çalışma_1\bin\Debug\Çalışma_1.exe
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\Çalışma_1\Çalışma_1\bin\Debug\Çalışma_1.pdb
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\Çalışma_1\Çalışma_1\obj\Debug\Çalışma_1.exe
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\Çalışma_1\Çalışma_1\obj\Debug\Çalışma_1.pdb
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\Çalışma_1\Çalışma_1\obj\Debug\Çalışma_1.exe.config

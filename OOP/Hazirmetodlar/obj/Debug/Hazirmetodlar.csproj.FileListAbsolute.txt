@@ -5,3 +5,4 @@ C:\Users\USER\Desktop\FullStack\OOP\Hazirmetodlar\obj\Debug\Hazirmetodlar.csproj
 C:\Users\USER\Desktop\FullStack\OOP\Hazirmetodlar\obj\Debug\Hazirmetodlar.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\FullStack\OOP\Hazirmetodlar\obj\Debug\Hazirmetodlar.exe
 C:\Users\USER\Desktop\FullStack\OOP\Hazirmetodlar\obj\Debug\Hazirmetodlar.pdb
+C:\Users\USER\Desktop\FullStack\OOP\Hazirmetodlar\obj\Debug\Hazirmetodlar.exe.config

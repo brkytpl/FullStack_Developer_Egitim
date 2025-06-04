@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\controllers\\urunlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\controllers\\urunlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\views\\admin\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\views\\admin\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\controllers\\kullanicilarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\controllers\\kullanicilarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\security\\kullaniciroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\security\\kullaniciroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\controllers\\urunlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\controllers\\urunlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\views\\admin\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\views\\admin\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\security\\kullaniciroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\security\\kullaniciroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\controllers\\kullanicilarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B8448E-C3D3-4DA0-9F91-827094FDAD7B}|mvc_modelfirst\\mvc_modelfirst.csproj|solutionrelative:mvc_modelfirst\\controllers\\kullanicilarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "KullanicilarController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\Controllers\\KullanicilarController.cs",
               "RelativeDocumentMoniker": "mvc_modelfirst\\Controllers\\KullanicilarController.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "mvc_modelfirst\\Controllers\\KullanicilarController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T09:51:29.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T09:51:29.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "KullaniciRoleProvider.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\Security\\KullaniciRoleProvider.cs",
               "RelativeDocumentMoniker": "mvc_modelfirst\\Security\\KullaniciRoleProvider.cs",
@@ -72,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AdminPanel.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\Views\\Admin\\AdminPanel.cshtml",
               "RelativeDocumentMoniker": "mvc_modelfirst\\Views\\Admin\\AdminPanel.cshtml",
@@ -85,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "mvc_modelfirst\\Views\\Admin\\Index.cshtml",
@@ -98,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\Web.config",
               "RelativeDocumentMoniker": "mvc_modelfirst\\Web.config",
@@ -111,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\Global.asax.cs",
               "RelativeDocumentMoniker": "mvc_modelfirst\\Global.asax.cs",
@@ -124,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "UrunlerController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\Controllers\\UrunlerController.cs",
               "RelativeDocumentMoniker": "mvc_modelfirst\\Controllers\\UrunlerController.cs",
@@ -137,13 +136,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "mvc_modelfirst\\Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\mvc_modelfirst\\mvc_modelfirst\\Controllers\\AdminController.cs",
               "RelativeToolTip": "mvc_modelfirst\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T08:08:27.25Z",
               "EditorCaption": ""

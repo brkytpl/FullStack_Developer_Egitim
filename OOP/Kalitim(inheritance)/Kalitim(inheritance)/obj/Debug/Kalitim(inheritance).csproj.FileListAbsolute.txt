@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\OOP\Kalitim(inheritance)\Kalitim(inheritance)\bin\Debug\Kalitim(inheritance).exe.config
+C:\Users\USER\Desktop\FullStack\OOP\Kalitim(inheritance)\Kalitim(inheritance)\bin\Debug\Kalitim(inheritance).exe
+C:\Users\USER\Desktop\FullStack\OOP\Kalitim(inheritance)\Kalitim(inheritance)\bin\Debug\Kalitim(inheritance).pdb
+C:\Users\USER\Desktop\FullStack\OOP\Kalitim(inheritance)\Kalitim(inheritance)\obj\Debug\Kalitim(inheritance).csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\OOP\Kalitim(inheritance)\Kalitim(inheritance)\obj\Debug\Kalitim(inheritance).csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\OOP\Kalitim(inheritance)\Kalitim(inheritance)\obj\Debug\Kalitim(inheritance).exe
+C:\Users\USER\Desktop\FullStack\OOP\Kalitim(inheritance)\Kalitim(inheritance)\obj\Debug\Kalitim(inheritance).pdb

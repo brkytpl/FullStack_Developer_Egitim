@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\çalışma_2\çalışma_2\bin\Debug\çalışma_2.exe.config
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\çalışma_2\çalışma_2\bin\Debug\çalışma_2.exe
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\çalışma_2\çalışma_2\bin\Debug\çalışma_2.pdb
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\çalışma_2\çalışma_2\obj\Debug\çalışma_2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\çalışma_2\çalışma_2\obj\Debug\çalışma_2.Form1.resources
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\çalışma_2\çalışma_2\obj\Debug\çalışma_2.Properties.Resources.resources
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\çalışma_2\çalışma_2\obj\Debug\çalışma_2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\çalışma_2\çalışma_2\obj\Debug\çalışma_2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\çalışma_2\çalışma_2\obj\Debug\çalışma_2.exe
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\çalışma_2\çalışma_2\obj\Debug\çalışma_2.pdb
+C:\Users\USER\Desktop\FullStack\çalışma dosyaları\çalışma_2\çalışma_2\obj\Debug\çalışma_2.exe.config

@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -37,7 +33,8 @@
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\AdoNet_rapor\\AdoNet_rapor\\Grafik.cs [Tasar\u0131m]",
               "RelativeToolTip": "AdoNet_rapor\\Grafik.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:48:21.521Z"
+              "WhenOpened": "2025-05-03T07:48:21.521Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
@@ -47,7 +44,7 @@
               "RelativeDocumentMoniker": "AdoNet_rapor\\Form1.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\AdoNet_rapor\\AdoNet_rapor\\Form1.cs",
               "RelativeToolTip": "AdoNet_rapor\\Form1.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAmwEkAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T06:36:19.765Z",
               "EditorCaption": ""
@@ -61,7 +58,8 @@
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\AdoNet_rapor\\AdoNet_rapor\\Form1.cs [Tasar\u0131m]",
               "RelativeToolTip": "AdoNet_rapor\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:31:30.184Z"
+              "WhenOpened": "2025-05-03T06:31:30.184Z",
+              "EditorCaption": " [Tasar\u0131m]"
             }
           ]
         }

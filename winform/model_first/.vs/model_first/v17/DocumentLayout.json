@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\model_first\\model_first\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|solutionrelative:model_first\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\model_first\\model_first\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|solutionrelative:model_first\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\model_first\\model_first\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\model_first\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|solutionrelative:model_first\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\model_first\\model_first\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|solutionrelative:model_first\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\model_first\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|solutionrelative:model_first\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\model_first\\model_first\\araclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|solutionrelative:model_first\\araclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\model_first\\model_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|solutionrelative:model_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\model_first\\model_first\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193DFA78-A0FD-4A0A-A6B1-540C049B4497}|model_first\\model_first.csproj|solutionrelative:model_first\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,22 +30,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\model_first\\Model1.cs",
+              "RelativeDocumentMoniker": "model_first\\Model1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\model_first\\Model1.cs",
+              "RelativeToolTip": "model_first\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:31:29.147Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Model1.edmx.sql ",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\model_first\\Model1.edmx.sql",
-              "RelativeDocumentMoniker": "model_first\\Model1.edmx.sql",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\model_first\\Model1.edmx.sql",
-              "RelativeToolTip": "model_first\\Model1.edmx.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-10T08:53:23.448Z",
+              "DocumentIndex": 2,
+              "Title": "Araclar.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\model_first\\Araclar.cs",
+              "RelativeDocumentMoniker": "model_first\\Araclar.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\model_first\\Araclar.cs",
+              "RelativeToolTip": "model_first\\Araclar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:31:20.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\model_first\\Program.cs",
+              "RelativeDocumentMoniker": "model_first\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\model_first\\Program.cs",
+              "RelativeToolTip": "model_first\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:30:58.256Z",
               "EditorCaption": ""
             },
             {
@@ -58,12 +85,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\model_first\\Form1.cs",
               "RelativeDocumentMoniker": "model_first\\Form1.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\model_first\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "model_first\\Form1.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\model_first\\model_first\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "model_first\\Form1.cs [Tasar\u0131m]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T08:26:14.773Z",
               "EditorCaption": " [Tasar\u0131m]"

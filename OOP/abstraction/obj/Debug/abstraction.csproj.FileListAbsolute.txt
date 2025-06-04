@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\FullStack\OOP\abstraction\bin\Debug\abstraction.exe.config
+C:\Users\USER\Desktop\FullStack\OOP\abstraction\bin\Debug\abstraction.exe
+C:\Users\USER\Desktop\FullStack\OOP\abstraction\bin\Debug\abstraction.pdb
+C:\Users\USER\Desktop\FullStack\OOP\abstraction\obj\Debug\abstraction.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FullStack\OOP\abstraction\obj\Debug\abstraction.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FullStack\OOP\abstraction\obj\Debug\abstraction.exe
+C:\Users\USER\Desktop\FullStack\OOP\abstraction\obj\Debug\abstraction.pdb

@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Classlar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3006B75C-309D-4086-8E74-AEDF670879C2}|..\\yapicimetod\\yapicimetod.csproj|c:\\users\\user\\desktop\\fullstack\\oop\\yapicimetod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3006B75C-309D-4086-8E74-AEDF670879C2}|..\\yapicimetod\\yapicimetod.csproj|c:\\users\\user\\desktop\\fullstack\\oop\\yapicimetod\\ogrenciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3006B75C-309D-4086-8E74-AEDF670879C2}|..\\yapicimetod\\yapicimetod.csproj|c:\\users\\user\\desktop\\fullstack\\oop\\yapicimetod\\ogrenciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3006B75C-309D-4086-8E74-AEDF670879C2}|..\\yapicimetod\\yapicimetod.csproj|c:\\users\\user\\desktop\\fullstack\\oop\\yapicimetod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,7 +24,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Ogrenciler.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\yapicimetod\\Ogrenciler.cs",
               "RelativeDocumentMoniker": "..\\yapicimetod\\Ogrenciler.cs",
@@ -37,13 +37,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\yapicimetod\\Program.cs",
               "RelativeDocumentMoniker": "..\\yapicimetod\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\yapicimetod\\Program.cs",
               "RelativeToolTip": "..\\yapicimetod\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T08:34:53.531Z",
               "EditorCaption": ""

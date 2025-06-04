@@ -5,3 +5,4 @@ C:\Users\USER\Desktop\FullStack\OOP\Okuk_kayıt_konsol_uygulması\Okuk_kayıt_ko
 C:\Users\USER\Desktop\FullStack\OOP\Okuk_kayıt_konsol_uygulması\Okuk_kayıt_konsol_uygulması\obj\Debug\Okuk_kayıt_konsol_uygulması.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\FullStack\OOP\Okuk_kayıt_konsol_uygulması\Okuk_kayıt_konsol_uygulması\obj\Debug\Okuk_kayıt_konsol_uygulması.exe
 C:\Users\USER\Desktop\FullStack\OOP\Okuk_kayıt_konsol_uygulması\Okuk_kayıt_konsol_uygulması\obj\Debug\Okuk_kayıt_konsol_uygulması.pdb
+C:\Users\USER\Desktop\FullStack\OOP\Okuk_kayıt_konsol_uygulması\Okuk_kayıt_konsol_uygulması\obj\Debug\Okuk_kayıt_konsol_uygulması.exe.config

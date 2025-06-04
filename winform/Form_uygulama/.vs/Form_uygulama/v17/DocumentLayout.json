@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79B413D4-CE69-405E-A061-CB47634BC190}|Form_uygulama\\Form_uygulama.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\form_uygulama\\form_uygulama\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B413D4-CE69-405E-A061-CB47634BC190}|Form_uygulama\\Form_uygulama.csproj|solutionrelative:form_uygulama\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B413D4-CE69-405E-A061-CB47634BC190}|Form_uygulama\\Form_uygulama.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\form_uygulama\\form_uygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79B413D4-CE69-405E-A061-CB47634BC190}|Form_uygulama\\Form_uygulama.csproj|solutionrelative:form_uygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\form_uygulama\\form_uygulama_2\\elbise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|solutionrelative:form_uygulama_2\\elbise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\form_uygulama\\form_uygulama_2\\elbise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|solutionrelative:form_uygulama_2\\elbise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\form_uygulama\\form_uygulama_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|solutionrelative:form_uygulama_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\form_uygulama\\form_uygulama_2\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|solutionrelative:form_uygulama_2\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\form_uygulama\\form_uygulama_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|solutionrelative:form_uygulama_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\form_uygulama\\form_uygulama_2\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|solutionrelative:form_uygulama_2\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\form_uygulama\\form_uygulama_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|solutionrelative:form_uygulama_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|solutionrelative:form_uygulama_2\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\elbise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D584FDE-537E-42CC-94A5-5A47F7013152}|form_uygulama_2\\form_uygulama_2.csproj|solutionrelative:form_uygulama_2\\elbise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +42,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\Form_uygulama\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form_uygulama\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\Form_uygulama\\Form1.Designer.cs",
+              "RelativeToolTip": "Form_uygulama\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:02:11.469Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\Form_uygulama\\Form1.cs",
+              "RelativeDocumentMoniker": "Form_uygulama\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\Form_uygulama\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form_uygulama\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:02:08.834Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "form_uygulama_2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\Form1.Designer.cs",
+              "RelativeToolTip": "form_uygulama_2\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:58:26.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\Program.cs",
               "RelativeDocumentMoniker": "form_uygulama_2\\Program.cs",
@@ -55,33 +97,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Elbise.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\Elbise.cs",
               "RelativeDocumentMoniker": "form_uygulama_2\\Elbise.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\Elbise.cs",
               "RelativeToolTip": "form_uygulama_2\\Elbise.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAawCAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T09:01:45.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AnaEkran.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\AnaEkran.cs",
               "RelativeDocumentMoniker": "form_uygulama_2\\AnaEkran.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\AnaEkran.cs",
               "RelativeToolTip": "form_uygulama_2\\AnaEkran.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAD4vxcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T08:47:32.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Elbise.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\Elbise.cs",
               "RelativeDocumentMoniker": "form_uygulama_2\\Elbise.cs",
@@ -93,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AnaEkran.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\AnaEkran.cs",
               "RelativeDocumentMoniker": "form_uygulama_2\\AnaEkran.cs",
@@ -101,18 +143,6 @@
               "RelativeToolTip": "form_uygulama_2\\AnaEkran.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T08:10:39.322Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\Form1.cs",
-              "RelativeDocumentMoniker": "form_uygulama_2\\Form1.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Form_uygulama\\form_uygulama_2\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "form_uygulama_2\\Form1.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T08:03:05.805Z",
               "EditorCaption": " [Tasar\u0131m]"
             }
           ]

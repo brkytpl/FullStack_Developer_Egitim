@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Okuk_kay\u0131t_konsol_uygulmas\u0131\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{186443B8-B40F-4658-B57A-0D62282F1DD4}|Okulkayit_konsol_projesi_dizi\\Okulkayit_konsol_projesi_dizi.csproj|C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Okuk_kay\u0131t_konsol_uygulmas\u0131\\okulkayit_konsol_projesi_dizi\\ogrenciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{186443B8-B40F-4658-B57A-0D62282F1DD4}|Okulkayit_konsol_projesi_dizi\\Okulkayit_konsol_projesi_dizi.csproj|solutionrelative:okulkayit_konsol_projesi_dizi\\ogrenciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{186443B8-B40F-4658-B57A-0D62282F1DD4}|Okulkayit_konsol_projesi_dizi\\Okulkayit_konsol_projesi_dizi.csproj|c:\\users\\user\\desktop\\fullstack\\oop\\okuk_kay\u0131t_konsol_uygulmas\u0131\\okulkayit_konsol_projesi_dizi\\veri_isleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186443B8-B40F-4658-B57A-0D62282F1DD4}|Okulkayit_konsol_projesi_dizi\\Okulkayit_konsol_projesi_dizi.csproj|solutionrelative:okulkayit_konsol_projesi_dizi\\veri_isleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{186443B8-B40F-4658-B57A-0D62282F1DD4}|Okulkayit_konsol_projesi_dizi\\Okulkayit_konsol_projesi_dizi.csproj|C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Okuk_kay\u0131t_konsol_uygulmas\u0131\\okulkayit_konsol_projesi_dizi\\ogrenciveri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{186443B8-B40F-4658-B57A-0D62282F1DD4}|Okulkayit_konsol_projesi_dizi\\Okulkayit_konsol_projesi_dizi.csproj|solutionrelative:okulkayit_konsol_projesi_dizi\\ogrenciveri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{186443B8-B40F-4658-B57A-0D62282F1DD4}|Okulkayit_konsol_projesi_dizi\\Okulkayit_konsol_projesi_dizi.csproj|c:\\users\\user\\desktop\\fullstack\\oop\\okuk_kay\u0131t_konsol_uygulmas\u0131\\okulkayit_konsol_projesi_dizi\\veri_isleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{186443B8-B40F-4658-B57A-0D62282F1DD4}|Okulkayit_konsol_projesi_dizi\\Okulkayit_konsol_projesi_dizi.csproj|solutionrelative:okulkayit_konsol_projesi_dizi\\veri_isleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{186443B8-B40F-4658-B57A-0D62282F1DD4}|Okulkayit_konsol_projesi_dizi\\Okulkayit_konsol_projesi_dizi.csproj|C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Okuk_kay\u0131t_konsol_uygulmas\u0131\\okulkayit_konsol_projesi_dizi\\ogrenciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186443B8-B40F-4658-B57A-0D62282F1DD4}|Okulkayit_konsol_projesi_dizi\\Okulkayit_konsol_projesi_dizi.csproj|solutionrelative:okulkayit_konsol_projesi_dizi\\ogrenciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{186443B8-B40F-4658-B57A-0D62282F1DD4}|Okulkayit_konsol_projesi_dizi\\Okulkayit_konsol_projesi_dizi.csproj|C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Okuk_kay\u0131t_konsol_uygulmas\u0131\\okulkayit_konsol_projesi_dizi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -47,26 +43,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Veri_isleme.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Okuk_kay\u0131t_konsol_uygulmas\u0131\\Okulkayit_konsol_projesi_dizi\\Veri_isleme.cs",
               "RelativeDocumentMoniker": "Okulkayit_konsol_projesi_dizi\\Veri_isleme.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Okuk_kay\u0131t_konsol_uygulmas\u0131\\Okulkayit_konsol_projesi_dizi\\Veri_isleme.cs",
               "RelativeToolTip": "Okulkayit_konsol_projesi_dizi\\Veri_isleme.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvyUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T06:57:08.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Ogrenciler.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Okuk_kay\u0131t_konsol_uygulmas\u0131\\Okulkayit_konsol_projesi_dizi\\Ogrenciler.cs",
               "RelativeDocumentMoniker": "Okulkayit_konsol_projesi_dizi\\Ogrenciler.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\OOP\\Okuk_kay\u0131t_konsol_uygulmas\u0131\\Okulkayit_konsol_projesi_dizi\\Ogrenciler.cs",
               "RelativeToolTip": "Okulkayit_konsol_projesi_dizi\\Ogrenciler.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T06:51:40.468Z",
               "EditorCaption": ""
