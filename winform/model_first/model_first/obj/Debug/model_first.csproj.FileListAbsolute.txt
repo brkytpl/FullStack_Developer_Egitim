@@ -13,3 +13,4 @@ C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\obj\Debug\model_
 C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\obj\Debug\model_fi.C8B575A6.Up2Date
 C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\obj\Debug\model_first.exe
 C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\obj\Debug\model_first.pdb
+C:\Users\USER\Desktop\FullStack\winform\model_first\model_first\obj\Debug\model_first.exe.config

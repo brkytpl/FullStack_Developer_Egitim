@@ -13,3 +13,4 @@ C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\
 C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\obj\Debug\Db_First.9128AA58.Up2Date
 C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\obj\Debug\Db_First_Prosedurlu.exe
 C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\obj\Debug\Db_First_Prosedurlu.pdb
+C:\Users\USER\Desktop\FullStack\winform\Db_First_Prosedurlu\Db_First_Prosedurlu\obj\Debug\Db_First_Prosedurlu.exe.config

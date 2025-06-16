@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\controllers\\kitapturcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|solutionrelative:coreuygulama\\controllers\\kitapturcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\views\\kitaptur\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|solutionrelative:coreuygulama\\views\\kitaptur\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\views\\kitaptur\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|solutionrelative:coreuygulama\\views\\kitaptur\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|solutionrelative:coreuygulama\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|solutionrelative:coreuygulama\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\models\\yazarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|solutionrelative:coreuygulama\\models\\yazarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\models\\turler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|solutionrelative:coreuygulama\\models\\turler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\models\\kitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|solutionrelative:coreuygulama\\models\\kitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF57520-C66E-41F4-8220-910061639646}|coreuygulama\\coreuygulama.csproj|solutionrelative:coreuygulama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Views\\Kitaptur\\Index.cshtml",
+              "RelativeDocumentMoniker": "coreuygulama\\Views\\Kitaptur\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Views\\Kitaptur\\Index.cshtml",
+              "RelativeToolTip": "coreuygulama\\Views\\Kitaptur\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T14:24:06.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Views\\Kitaptur\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "coreuygulama\\Views\\Kitaptur\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Views\\Kitaptur\\Guncelle.cshtml",
+              "RelativeToolTip": "coreuygulama\\Views\\Kitaptur\\Guncelle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T14:23:48.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KitapturController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Controllers\\KitapturController.cs",
+              "RelativeDocumentMoniker": "coreuygulama\\Controllers\\KitapturController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Controllers\\KitapturController.cs",
+              "RelativeToolTip": "coreuygulama\\Controllers\\KitapturController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:55:29.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Program.cs",
+              "RelativeDocumentMoniker": "coreuygulama\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Program.cs",
+              "RelativeToolTip": "coreuygulama\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:58:33.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "coreuygulama\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "coreuygulama\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:49:40.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\appsettings.json",
+              "RelativeDocumentMoniker": "coreuygulama\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\appsettings.json",
+              "RelativeToolTip": "coreuygulama\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T10:40:15.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Yazarlar.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Models\\Yazarlar.cs",
+              "RelativeDocumentMoniker": "coreuygulama\\Models\\Yazarlar.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Models\\Yazarlar.cs",
+              "RelativeToolTip": "coreuygulama\\Models\\Yazarlar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:12:16.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Turler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Models\\Turler.cs",
+              "RelativeDocumentMoniker": "coreuygulama\\Models\\Turler.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Models\\Turler.cs",
+              "RelativeToolTip": "coreuygulama\\Models\\Turler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:24:43.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kitaplar.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Models\\Kitaplar.cs",
+              "RelativeDocumentMoniker": "coreuygulama\\Models\\Kitaplar.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_core_dosyalar\\coreuygulama\\coreuygulama\\Models\\Kitaplar.cs",
+              "RelativeToolTip": "coreuygulama\\Models\\Kitaplar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:24:02.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

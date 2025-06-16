@@ -18,10 +18,10 @@ namespace çalışma_2
         {
             InitializeComponent();
         }
+        SqlConnection conn = new SqlConnection("Server=BERKAY\\SQLEXPRESS;Database=Customers;integrated security=true");
         private void Listele()
         {
-            string connectionString = "Server=BERKAY\\SQLEXPRESS;Database=Customers;Integrated Security=true;";
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            
             {
                 conn.Open();
                 SqlDataAdapter sqlDataAdapter = new SqlDataAdapter("Select * from Customers",conn );
@@ -35,8 +35,7 @@ namespace çalışma_2
         private void button1_Click(object sender, EventArgs e)
 
         {
-            string connectionString = "Server=BERKAY\\SQLEXPRESS;Database=Customers;Integrated Security=true;";
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            
             {
                 conn.Open();
                 string query = "INSERT INTO Customers (Name, Email, Phone) VALUES (@Name, @Email, @Phone)";
@@ -66,8 +65,7 @@ namespace çalışma_2
         //Güncelle Butonu
         private void button3_Click(object sender, EventArgs e)
         {
-            string connectionString = "Server=BERKAY\\SQLEXPRESS;Database=Customers;Integrated Security=true;";
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            
             {
                 conn.Open();
                 string query = "UPDATE Customers SET Name=@Name, Email=@Email, Phone=@Phone WHERE Id=@Id";
@@ -84,8 +82,7 @@ namespace çalışma_2
 
         private void button4_Click(object sender, EventArgs e)
         {
-            string connectionString = "Server=BERKAY\\SQLEXPRESS;Database=Customers;Integrated Security=true;";
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            
             {
                 conn.Open();
                 string query = "DELETE FROM Customers WHERE Id=@Id";

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Db_First_Prosedurlu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01158234-27E1-470F-9C4C-2497BB9E65A6}|Db_First_Prosedurlu\\Db_First_Prosedurlu.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\Db_First_Prosedurlu\\db_first_prosedurlu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01158234-27E1-470F-9C4C-2497BB9E65A6}|Db_First_Prosedurlu\\Db_First_Prosedurlu.csproj|solutionrelative:db_first_prosedurlu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01158234-27E1-470F-9C4C-2497BB9E65A6}|Db_First_Prosedurlu\\Db_First_Prosedurlu.csproj|c:\\users\\user\\desktop\\fullstack\\winform\\db_first_prosedurlu\\db_first_prosedurlu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01158234-27E1-470F-9C4C-2497BB9E65A6}|Db_First_Prosedurlu\\Db_First_Prosedurlu.csproj|solutionrelative:db_first_prosedurlu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01158234-27E1-470F-9C4C-2497BB9E65A6}|Db_First_Prosedurlu\\Db_First_Prosedurlu.csproj|C:\\Users\\USER\\Desktop\\FullStack\\winform\\Db_First_Prosedurlu\\db_first_prosedurlu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01158234-27E1-470F-9C4C-2497BB9E65A6}|Db_First_Prosedurlu\\Db_First_Prosedurlu.csproj|solutionrelative:db_first_prosedurlu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Db_First_Prosedurlu\\Db_First_Prosedurlu\\Form1.cs",
               "RelativeDocumentMoniker": "Db_First_Prosedurlu\\Form1.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Db_First_Prosedurlu\\Db_First_Prosedurlu\\Form1.cs",
               "RelativeToolTip": "Db_First_Prosedurlu\\Form1.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAIAwwEoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T07:00:47.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Db_First_Prosedurlu\\Db_First_Prosedurlu\\Form1.cs",
               "RelativeDocumentMoniker": "Db_First_Prosedurlu\\Form1.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\winform\\Db_First_Prosedurlu\\Db_First_Prosedurlu\\Form1.cs [Tasar\u0131m]",
               "RelativeToolTip": "Db_First_Prosedurlu\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T06:29:08.557Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-05-10T06:29:08.557Z"
             }
           ]
         }
