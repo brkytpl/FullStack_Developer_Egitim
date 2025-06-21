@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|solutionrelative:katmanli_core_uygulama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\views\\araclar\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|solutionrelative:katmanli_core_uygulama\\views\\araclar\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|solutionrelative:katmanli_core_uygulama\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\views\\araclar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|solutionrelative:katmanli_core_uygulama\\views\\araclar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\controllers\\araclarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|solutionrelative:katmanli_core_uygulama\\controllers\\araclarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\views\\araclar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|solutionrelative:katmanli_core_uygulama\\views\\araclar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\controllers\\aracturcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|solutionrelative:katmanli_core_uygulama\\controllers\\aracturcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|c:\\users\\user\\desktop\\fullstack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C5168-AA78-4B66-A14F-1080A27AB195}|katmanli_core_uygulama\\katmanli_core_uygulama.csproj|solutionrelative:katmanli_core_uygulama\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Program.cs",
+              "RelativeDocumentMoniker": "katmanli_core_uygulama\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Program.cs",
+              "RelativeToolTip": "katmanli_core_uygulama\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:34:51.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\appsettings.json",
+              "RelativeDocumentMoniker": "katmanli_core_uygulama\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\appsettings.json",
+              "RelativeToolTip": "katmanli_core_uygulama\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T16:34:29.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Views\\Araclar\\Edit.cshtml",
+              "RelativeDocumentMoniker": "katmanli_core_uygulama\\Views\\Araclar\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Views\\Araclar\\Edit.cshtml",
+              "RelativeToolTip": "katmanli_core_uygulama\\Views\\Araclar\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T09:00:05.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Views\\Araclar\\Create.cshtml",
+              "RelativeDocumentMoniker": "katmanli_core_uygulama\\Views\\Araclar\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Views\\Araclar\\Create.cshtml",
+              "RelativeToolTip": "katmanli_core_uygulama\\Views\\Araclar\\Create.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvyEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T08:25:23.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Views\\Araclar\\Index.cshtml",
+              "RelativeDocumentMoniker": "katmanli_core_uygulama\\Views\\Araclar\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Views\\Araclar\\Index.cshtml",
+              "RelativeToolTip": "katmanli_core_uygulama\\Views\\Araclar\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T08:24:36.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AraclarController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Controllers\\AraclarController.cs",
+              "RelativeDocumentMoniker": "katmanli_core_uygulama\\Controllers\\AraclarController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Controllers\\AraclarController.cs",
+              "RelativeToolTip": "katmanli_core_uygulama\\Controllers\\AraclarController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:21:03.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "katmanli_core_uygulama\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "katmanli_core_uygulama\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:08:23.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AracTurController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Controllers\\AracTurController.cs",
+              "RelativeDocumentMoniker": "katmanli_core_uygulama\\Controllers\\AracTurController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FullStack\\web_mvc_dosyalar\\katmanli_core_uygulama\\katmanli_core_uygulama\\Controllers\\AracTurController.cs",
+              "RelativeToolTip": "katmanli_core_uygulama\\Controllers\\AracTurController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAABQwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:07:40.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
